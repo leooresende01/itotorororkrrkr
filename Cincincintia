@@ -23,8 +23,6 @@ http://rec2.distv.net:80/jorge/102030/119
 http://rec2.distv.net:80/jorge/102030/120
 #EXTINF:-1 tvg-id="" tvg-name="BOOMERANG" tvg-logo="http://distv.net/icons/boomerang.png" group-title="KIDS",BOOMERANG
 http://rec2.distv.net:80/jorge/102030/121
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS" tvg-logo="http://distv.net/icons/brasileirinhas.png" group-title="ADULTOS",BRASILEIRINHAS
-http://rec2.distv.net:80/jorge/102030/61
 #EXTINF:-1 tvg-id="" tvg-name="CANAL 21" tvg-logo="http://distv.net/icons/canal21.png" group-title="CANAIS LOCAIS",CANAL 21
 http://rec2.distv.net:80/jorge/102030/265
 #EXTINF:-1 tvg-id="" tvg-name="CANAL COMUNITARIO" tvg-logo="http://distv.net/icons/Canal%20ComunitaRIO.png" group-title="CANAIS LOCAIS",CANAL COMUNITARIO
@@ -283,10 +281,6 @@ http://rec2.distv.net:80/jorge/102030/70
 http://rec2.distv.net:80/jorge/102030/238
 #EXTINF:-1 tvg-id="" tvg-name="SBT RN" tvg-logo="http://distv.net/icons/sbt.png" group-title=" CANAIS LOCAIS NATAL",SBT RN
 http://rec2.distv.net:80/jorge/102030/296
-#EXTINF:-1 tvg-id="" tvg-name="SEX HOT " tvg-logo="http://distv.net/icons/sexyhot.png" group-title="ADULTOS",SEX HOT 
-http://rec2.distv.net:80/jorge/102030/58
-#EXTINF:-1 tvg-id="" tvg-name="SEX PRIVE" tvg-logo="http://distv.net/icons/sexprive.png" group-title="ADULTOS",SEX PRIVE
-http://rec2.distv.net:80/jorge/102030/59
 #EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="http://distv.net/icons/space.png" group-title="FILMES E SERIES",SPACE
 http://rec2.distv.net:80/jorge/102030/187
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV" tvg-logo="http://distv.net/icons/sportv.png" group-title="SPORTS",SPORTV
