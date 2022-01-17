@@ -387,3 +387,8 @@ http://rec2.distv.net:80/jorge/102030/208
 http://rec2.distv.net:80/jorge/102030/243
 #EXTINF:-1 tvg-id="" tvg-name="ZOOMOO" tvg-logo="http://distv.net/icons/zoomoo.png" group-title="KIDS",ZOOMOO
 http://rec2.distv.net:80/jorge/102030/244
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Miranha" tvg-logo="" group-title="KIDS",ZOOMOO
+http://fonteangelusiptv.com:25461/movie/roseane/roseane/964819.mp4
