@@ -289,6 +289,12 @@ http://rec2.distv.net:80/jorge/102030/188
 http://rec2.distv.net:80/jorge/102030/189
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV 3" tvg-logo="http://distv.net/icons/sportv3.png" group-title="SPORTS",SPORTV 3
 http://rec2.distv.net:80/jorge/102030/190
+#EXTINF:-1,STAR + ALT 1
+http://vipeiptv.com:8080/Danyelle/Danyelle/981634
+#EXTINF:-1,STAR + ALT 2
+http://vipeiptv.com:8080/Danyelle/Danyelle/981635
+#EXTINF:-1,STAR + ALT 3
+http://vipeiptv.com:8080/Danyelle/Danyelle/981636
 #EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://distv.net/icons/studiouniversal.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL
 http://rec2.distv.net:80/jorge/102030/191
 #EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="http://distv.net/icons/syfy.png" group-title="FILMES E SERIES",SYFY
