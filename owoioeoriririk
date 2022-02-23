@@ -1,4 +1,42 @@
 #EXTM3U
-#EXTINF:-1,Rede Meio Norte
-#EXTVLCOPT:http-referrer=https://canaismax.com/assistir-a-fazenda-2020-ao-vivo-24-horas-hd-online
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/playlist.m3u8
+#EXTINF:-1,CARIOCA 1 Alta Qualidade
+http://viutudo.com:80/luciana2022/2022luciana/10074379
+
+#EXTINF:-1,CARIOCA 1 Media Qualidade
+http://viutudo.com:80/luciana2022/2022luciana/10074380
+
+#EXTINF:-1,CARIOCA 1 Baixa Qualidade
+http://viutudo.com:80/luciana2022/2022luciana/10074381
+
+#EXTINF:-1,CARIOCA 1z
+http://viutudo.com:80/luciana2022/2022luciana/10074390
+
+#EXTINF:-1,CARIOCA 1*
+http://viutudo.com:80/luciana2022/2022luciana/10074385
+
+#EXTINF:-1,CARIOCA 1**
+http://viutudo.com:80/luciana2022/2022luciana/10074388
+
+#EXTINF:-1,CARIOCA 2 Alta Qualidade
+http://viutudo.com:80/luciana2022/2022luciana/10074382
+
+#EXTINF:-1,CARIOCA 2 Media Qualidade
+http://viutudo.com:80/luciana2022/2022luciana/10074383
+
+#EXTINF:-1,CARIOCA 2z
+http://viutudo.com:80/luciana2022/2022luciana/10074391
+
+#EXTINF:-1,CARIOCA 2 Baixa Qualidade
+http://viutudo.com:80/luciana2022/2022luciana/10074384
+
+#EXTINF:-1,CARIOCA 2*
+http://viutudo.com:80/luciana2022/2022luciana/10074386
+
+#EXTINF:-1,CARIOCA 2**
+http://viutudo.com:80/luciana2022/2022luciana/10074389
+
+#EXTINF:-1,CARIOCA 3z
+http://viutudo.com:80/luciana2022/2022luciana/10074392
+
+#EXTINF:-1,CARIOCA 3*
+http://viutudo.com:80/luciana2022/2022luciana/10074387
