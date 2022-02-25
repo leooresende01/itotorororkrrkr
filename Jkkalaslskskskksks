@@ -1,582 +1,996 @@
-#EXTINF:-1,A&E 
-http://rec2.distv.net/Liliane/Liliane/113
+#ETXM3U
+#EXTM3U
+
+#EXTINF:-1,A&E
+http://rec2.distv.net/girlene/123/630
+
+#EXTINF:-1,AGRO BRASIL
+http://rec2.distv.net/girlene/123/427
+
+#EXTINF:-1,AGRO CANAL
+http://rec2.distv.net/girlene/123/428
 
 #EXTINF:-1,AMC
-http://rec2.distv.net/Liliane/Liliane/223
+http://rec2.distv.net/girlene/123/631
 
 #EXTINF:-1,ANIMAL PLANET
-http://rec2.distv.net/Liliane/Liliane/114
+http://rec2.distv.net/girlene/123/597
 
 #EXTINF:-1,ARTE 1
-http://rec2.distv.net/Liliane/Liliane/115
+http://rec2.distv.net/girlene/123/598
 
 #EXTINF:-1,AXN
-http://rec2.distv.net/Liliane/Liliane/116
+http://rec2.distv.net/girlene/123/632
 
 #EXTINF:-1,BABY TV
-http://rec2.distv.net/Liliane/Liliane/117
+http://rec2.distv.net/girlene/123/582
 
-#EXTINF:-1,BAND
-http://rec2.distv.net/Liliane/Liliane/224
+#EXTINF:-1,BAND CARIRI
+http://rec2.distv.net/girlene/123/402
 
 #EXTINF:-1,BAND NEWS
-http://rec2.distv.net/Liliane/Liliane/118
+http://rec2.distv.net/girlene/123/504
+
+#EXTINF:-1,BAND NEWS
+http://rec2.distv.net/girlene/123/629
 
 #EXTINF:-1,BAND RN
-http://rec2.distv.net/Liliane/Liliane/294
+http://rec2.distv.net/girlene/123/381
+
+#EXTINF:-1,BAND SAT
+http://rec2.distv.net/girlene/123/502
 
 #EXTINF:-1,BAND SPORTS
-http://rec2.distv.net/Liliane/Liliane/119
+http://rec2.distv.net/girlene/123/532
+
+#EXTINF:-1,BBB AQUECIMENTO
+http://rec2.distv.net/girlene/123/565
+
+#EXTINF:-1,BBB Camera 01
+http://rec2.distv.net/girlene/123/566
+
+#EXTINF:-1,BBB Camera 02
+http://rec2.distv.net/girlene/123/567
+
+#EXTINF:-1,BBB Camera 03
+http://rec2.distv.net/girlene/123/568
+
+#EXTINF:-1,BBB Camera 04
+http://rec2.distv.net/girlene/123/569
+
+#EXTINF:-1,BBB Camera 05
+http://rec2.distv.net/girlene/123/570
+
+#EXTINF:-1,BBB Camera 06
+http://rec2.distv.net/girlene/123/571
+
+#EXTINF:-1,BBB Camera 07
+http://rec2.distv.net/girlene/123/572
+
+#EXTINF:-1,BBB Camera 08
+http://rec2.distv.net/girlene/123/573
+
+#EXTINF:-1,BBB Camera 09
+http://rec2.distv.net/girlene/123/574
+
+#EXTINF:-1,BBB Camera 10
+http://rec2.distv.net/girlene/123/575
+
+#EXTINF:-1,BBB Camera 11
+http://rec2.distv.net/girlene/123/576
 
 #EXTINF:-1,BIS
-http://rec2.distv.net/Liliane/Liliane/120
+http://rec2.distv.net/girlene/123/599
 
 #EXTINF:-1,BOOMERANG
-http://rec2.distv.net/Liliane/Liliane/121
+http://rec2.distv.net/girlene/123/583
 
-#EXTINF:-1,CANAL 21
-http://rec2.distv.net/Liliane/Liliane/265
+#EXTINF:-1,CABUGI(GLOBO)
+http://rec2.distv.net/girlene/123/382
 
-#EXTINF:-1,CANAL COMUNITARIO
-http://rec2.distv.net/Liliane/Liliane/267
+#EXTINF:-1,CANAL COMUNITARIO BR
+http://rec2.distv.net/girlene/123/432
 
 #EXTINF:-1,CANAL DO BOI
-http://rec2.distv.net/Liliane/Liliane/266
+http://rec2.distv.net/girlene/123/431
+
+#EXTINF:-1,CANAL RURAL
+http://rec2.distv.net/girlene/123/433
+
+#EXTINF:-1,CANAL SAUDE
+http://rec2.distv.net/girlene/123/354
+
+#EXTINF:-1,CANAL SAUDE
+http://rec2.distv.net/girlene/123/452
 
 #EXTINF:-1,CANAL SONY
-http://rec2.distv.net/Liliane/Liliane/123
+http://rec2.distv.net/girlene/123/633
 
-#EXTINF:-1,CAN
-http://rec2.distv.net/Liliane/Liliane/65
+#EXTINF:-1,CANCAO NOVA
+http://rec2.distv.net/girlene/123/364
+
+#EXTINF:-1,CANCAO NOVA
+http://rec2.distv.net/girlene/123/391
+
+#EXTINF:-1,Campeonato Carioca 1
+http://portal.supertela.cloudns.cl/Tereza/123456/70798
+
+#EXTINF:-1,Campeonato Carioca 2
+http://portal.supertela.cloudns.cl/Tereza/123456/70799
+
+#EXTINF:-1,Cariocao 1
+http://sv1.casaplayer.com.br:8080/dayana/102030/69564
+
+#EXTINF:-1,Cariocao 2
+http://sv1.casaplayer.com.br:8080/dayana/102030/69565
+
+#EXTINF:-1,Copa Carioca 1
+http://sv1.casaplayer.com.br:8080/dayana/102030/69551
+
+#EXTINF:-1,Copa Carioca 2
+http://sv1.casaplayer.com.br:8080/dayana/102030/69552
 
 #EXTINF:-1,CARTOON NETWORK
-http://rec2.distv.net/Liliane/Liliane/124
+http://rec2.distv.net/girlene/123/584
+
+#EXTINF:-1,CHEFTV
+http://rec2.distv.net/girlene/123/666
+
+#EXTINF:-1,CINE 01
+http://rec2.distv.net/girlene/123/512
+
+#EXTINF:-1,CINE 02
+http://rec2.distv.net/girlene/123/513
+
+#EXTINF:-1,CINE 03
+http://rec2.distv.net/girlene/123/514
+
+#EXTINF:-1,CINE 04
+http://rec2.distv.net/girlene/123/515
+
+#EXTINF:-1,CINE 05
+http://rec2.distv.net/girlene/123/516
+
+#EXTINF:-1,CINE 06
+http://rec2.distv.net/girlene/123/517
+
+#EXTINF:-1,CINE 07
+http://rec2.distv.net/girlene/123/518
+
+#EXTINF:-1,CINE 08
+http://rec2.distv.net/girlene/123/519
+
+#EXTINF:-1,CINE 09
+http://rec2.distv.net/girlene/123/520
+
+#EXTINF:-1,CINE 10
+http://rec2.distv.net/girlene/123/521
+
+#EXTINF:-1,CINE BRASIL
+http://rec2.distv.net/girlene/123/434
 
 #EXTINF:-1,CINE SKY 01
-http://rec2.distv.net/Liliane/Liliane/48
+http://rec2.distv.net/girlene/123/522
 
 #EXTINF:-1,CINE SKY 02
-http://rec2.distv.net/Liliane/Liliane/49
+http://rec2.distv.net/girlene/123/523
 
 #EXTINF:-1,CINE SKY 03
-http://rec2.distv.net/Liliane/Liliane/50
+http://rec2.distv.net/girlene/123/524
 
 #EXTINF:-1,CINE SKY 04
-http://rec2.distv.net/Liliane/Liliane/51
+http://rec2.distv.net/girlene/123/525
 
 #EXTINF:-1,CINE SKY 05
-http://rec2.distv.net/Liliane/Liliane/52
+http://rec2.distv.net/girlene/123/526
 
 #EXTINF:-1,CINE SKY 06
-http://rec2.distv.net/Liliane/Liliane/53
+http://rec2.distv.net/girlene/123/527
 
 #EXTINF:-1,CINE SKY 07
-http://rec2.distv.net/Liliane/Liliane/54
+http://rec2.distv.net/girlene/123/528
 
 #EXTINF:-1,CINE SKY 08
-http://rec2.distv.net/Liliane/Liliane/55
+http://rec2.distv.net/girlene/123/529
 
 #EXTINF:-1,CINE SKY 09
-http://rec2.distv.net/Liliane/Liliane/56
+http://rec2.distv.net/girlene/123/530
 
 #EXTINF:-1,CINE SKY 10
-http://rec2.distv.net/Liliane/Liliane/57
+http://rec2.distv.net/girlene/123/531
 
 #EXTINF:-1,CINEMAX
-http://rec2.distv.net/Liliane/Liliane/125
+http://rec2.distv.net/girlene/123/634
 
 #EXTINF:-1,CNN BRASIL
-http://rec2.distv.net/Liliane/Liliane/225
+http://rec2.distv.net/girlene/123/626
+
+#EXTINF:-1,CNNINTERNACIONAL
+http://rec2.distv.net/girlene/123/668
 
 #EXTINF:-1,COMBATE
-http://rec2.distv.net/Liliane/Liliane/126
+http://rec2.distv.net/girlene/123/533
 
 #EXTINF:-1,COMEDY CENTRAL
-http://rec2.distv.net/Liliane/Liliane/127
+http://rec2.distv.net/girlene/123/601
 
-#EXTINF:-1,CULTURA
-http://rec2.distv.net/Liliane/Liliane/128
+#EXTINF:-1,CONMEBOL 1
+http://rec2.distv.net/girlene/123/551
 
-#EXTINF:-1,CURTA
-http://rec2.distv.net/Liliane/Liliane/129
+#EXTINF:-1,CONMEBOL 2
+http://rec2.distv.net/girlene/123/552
+
+#EXTINF:-1,CONMEBOL 3
+http://rec2.distv.net/girlene/123/553
+
+#EXTINF:-1,CONMEBOL 4
+http://rec2.distv.net/girlene/123/554
+
+#EXTINF:-1,COPA DO NORDESTE
+http://rec2.distv.net/girlene/123/555
+
+#EXTINF:-1,COPA DO NORDESTE 2
+http://rec2.distv.net/girlene/123/556
+
+#EXTINF:-1,COPA DO NORDESTE 3
+http://rec2.distv.net/girlene/123/557
+
+#EXTINF:-1,CURTA!
+http://rec2.distv.net/girlene/123/600
 
 #EXTINF:-1,DAZN
-http://rec2.distv.net/Liliane/Liliane/226
+http://rec2.distv.net/girlene/123/534
+
+#EXTINF:-1,DAZN 3
+http://rec2.distv.net/girlene/123/684
+
+#EXTINF:-1,DAZN 4
+http://rec2.distv.net/girlene/123/683
+
+#EXTINF:-1,DAZN 5
+http://rec2.distv.net/girlene/123/682
 
 #EXTINF:-1,DISCOVERY CHANNEL
-http://rec2.distv.net/Liliane/Liliane/130
+http://rec2.distv.net/girlene/123/602
 
-#EXTINF:-1,DISCOVERY HOME & HEALTH
-http://rec2.distv.net/Liliane/Liliane/131
+#EXTINF:-1,DISCOVERY H & HEALTH
+http://rec2.distv.net/girlene/123/603
 
 #EXTINF:-1,DISCOVERY ID
-http://rec2.distv.net/Liliane/Liliane/132
+http://rec2.distv.net/girlene/123/604
 
 #EXTINF:-1,DISCOVERY KIDS
-http://rec2.distv.net/Liliane/Liliane/133
+http://rec2.distv.net/girlene/123/585
 
 #EXTINF:-1,DISCOVERY SCIENCE
-http://rec2.distv.net/Liliane/Liliane/134
+http://rec2.distv.net/girlene/123/605
 
 #EXTINF:-1,DISCOVERY THEATER
-http://rec2.distv.net/Liliane/Liliane/135
+http://rec2.distv.net/girlene/123/606
 
 #EXTINF:-1,DISCOVERY TURBO
-http://rec2.distv.net/Liliane/Liliane/136
+http://rec2.distv.net/girlene/123/607
 
 #EXTINF:-1,DISCOVERY WORLD
-http://rec2.distv.net/Liliane/Liliane/137
+http://rec2.distv.net/girlene/123/608
 
 #EXTINF:-1,DISNEY CHANNEL
-http://rec2.distv.net/Liliane/Liliane/138
+http://rec2.distv.net/girlene/123/586
 
 #EXTINF:-1,DISNEY JR
-http://rec2.distv.net/Liliane/Liliane/139
+http://rec2.distv.net/girlene/123/587
 
 #EXTINF:-1,DISNEY XD
-http://rec2.distv.net/Liliane/Liliane/140
+http://rec2.distv.net/girlene/123/588
+
+#EXTINF:-1,DOG TV
+http://rec2.distv.net/girlene/123/674
 
 #EXTINF:-1,E!
-http://rec2.distv.net/Liliane/Liliane/141
+http://rec2.distv.net/girlene/123/609
 
-#EXTINF:-1,EDUCA
-http://rec2.distv.net/Liliane/Liliane/285
+#EXTINF:-1,EDUCA BAHIA
+http://rec2.distv.net/girlene/123/362
+
+#EXTINF:-1,EDUCACAO
+http://rec2.distv.net/girlene/123/453
 
 #EXTINF:-1,ESPN
-http://rec2.distv.net/Liliane/Liliane/142
+http://rec2.distv.net/girlene/123/535
 
 #EXTINF:-1,ESPN 2
-http://rec2.distv.net/Liliane/Liliane/143
+http://rec2.distv.net/girlene/123/536
 
 #EXTINF:-1,ESPN BRASIL
-http://rec2.distv.net/Liliane/Liliane/144
+http://rec2.distv.net/girlene/123/537
 
 #EXTINF:-1,ESPN EXTRA
-http://rec2.distv.net/Liliane/Liliane/145
+http://rec2.distv.net/girlene/123/538
 
 #EXTINF:-1,EURO NEWS
-http://rec2.distv.net/Liliane/Liliane/270
+http://rec2.distv.net/girlene/123/435
 
-#EXTINF:-1,FASHION
-http://rec2.distv.net/Liliane/Liliane/82
+#EXTINF:-1,FASHIONTV
+http://rec2.distv.net/girlene/123/687
 
-#EXTINF:-1,FILMS & ARTS
-http://rec2.distv.net/Liliane/Liliane/227
+#EXTINF:-1,FILM ARTS
+http://rec2.distv.net/girlene/123/610
 
-#EXTINF:-1,FISH TV
-http://rec2.distv.net/Liliane/Liliane/146
+#EXTINF:-1,FISHTV
+http://rec2.distv.net/girlene/123/672
 
 #EXTINF:-1,FOOD NETWORK
-http://rec2.distv.net/Liliane/Liliane/147
+http://rec2.distv.net/girlene/123/611
 
 #EXTINF:-1,FOX
-http://rec2.distv.net/Liliane/Liliane/148
+http://rec2.distv.net/girlene/123/635
 
 #EXTINF:-1,FOX LIFE
-http://rec2.distv.net/Liliane/Liliane/149
+http://rec2.distv.net/girlene/123/636
 
 #EXTINF:-1,FOX PREMIUM 1
-http://rec2.distv.net/Liliane/Liliane/150
+http://rec2.distv.net/girlene/123/637
 
 #EXTINF:-1,FOX PREMIUM 2
-http://rec2.distv.net/Liliane/Liliane/151
+http://rec2.distv.net/girlene/123/638
 
 #EXTINF:-1,FOX SPORTS
-http://rec2.distv.net/Liliane/Liliane/152
+http://rec2.distv.net/girlene/123/539
 
 #EXTINF:-1,FOX SPORTS 2
-http://rec2.distv.net/Liliane/Liliane/153
+http://rec2.distv.net/girlene/123/540
 
-#EXTINF:-1,FUTURA
-http://rec2.distv.net/Liliane/Liliane/228
+#EXTINF:-1,FOXNEWS
+http://rec2.distv.net/girlene/123/669
 
 #EXTINF:-1,FX
-http://rec2.distv.net/Liliane/Liliane/229
-
-#EXTINF:-1,GAZETA
-http://rec2.distv.net/Liliane/Liliane/230
-
-#EXTINF:-1,GLOBO
-http://rec2.distv.net/Liliane/Liliane/231
+http://rec2.distv.net/girlene/123/639
 
 #EXTINF:-1,GLOBO BRASILIA
-http://rec2.distv.net/Liliane/Liliane/3
+http://rec2.distv.net/girlene/123/475
 
 #EXTINF:-1,GLOBO FLORIANOPOLIS
-http://rec2.distv.net/Liliane/Liliane/5
+http://rec2.distv.net/girlene/123/476
 
 #EXTINF:-1,GLOBO MINAS
-http://rec2.distv.net/Liliane/Liliane/6
+http://rec2.distv.net/girlene/123/477
 
 #EXTINF:-1,GLOBO NATAL
-http://rec2.distv.net/Liliane/Liliane/7
+http://rec2.distv.net/girlene/123/478
 
 #EXTINF:-1,GLOBO NEWS
-http://rec2.distv.net/Liliane/Liliane/232
+http://rec2.distv.net/girlene/123/627
 
-#EXTINF:-1,GLOBO REDE AMAZ
-http://rec2.distv.net/Liliane/Liliane/11
+#EXTINF:-1,GLOBO NORDESTE
+http://rec2.distv.net/girlene/123/479
+
+#EXTINF:-1,GLOBO REDE AMAZONICA
+http://rec2.distv.net/girlene/123/482
 
 #EXTINF:-1,GLOBO RIO
-http://rec2.distv.net/Liliane/Liliane/13
+http://rec2.distv.net/girlene/123/480
 
 #EXTINF:-1,GLOBO RIO GRANDE DO SUL
-http://rec2.distv.net/Liliane/Liliane/12
+http://rec2.distv.net/girlene/123/481
 
 #EXTINF:-1,GLOBO RPC CURITIBA
-http://rec2.distv.net/Liliane/Liliane/14
+http://rec2.distv.net/girlene/123/483
 
 #EXTINF:-1,GLOBO SP
-http://rec2.distv.net/Liliane/Liliane/15
+http://rec2.distv.net/girlene/123/484
 
 #EXTINF:-1,GLOBO TV ANHANGUERA GOIANIA
-http://rec2.distv.net/Liliane/Liliane/16
+http://rec2.distv.net/girlene/123/485
 
 #EXTINF:-1,GLOBO TV BAHIA
-http://rec2.distv.net/Liliane/Liliane/17
+http://rec2.distv.net/girlene/123/486
 
 #EXTINF:-1,GLOBO TV LIBERAL BELEM
-http://rec2.distv.net/Liliane/Liliane/18
+http://rec2.distv.net/girlene/123/487
 
 #EXTINF:-1,GLOBO TV MIRANTE
-http://rec2.distv.net/Liliane/Liliane/19
+http://rec2.distv.net/girlene/123/488
 
 #EXTINF:-1,GLOOB
-http://rec2.distv.net/Liliane/Liliane/154
+http://rec2.distv.net/girlene/123/589
 
 #EXTINF:-1,GLOOBINHO
-http://rec2.distv.net/Liliane/Liliane/215
+http://rec2.distv.net/girlene/123/590
 
 #EXTINF:-1,GNT
-http://rec2.distv.net/Liliane/Liliane/155
+http://rec2.distv.net/girlene/123/612
+
+#EXTINF:-1,H2
+http://rec2.distv.net/girlene/123/615
 
 #EXTINF:-1,HBO
-http://rec2.distv.net/Liliane/Liliane/156
+http://rec2.distv.net/girlene/123/640
 
 #EXTINF:-1,HBO 2
-http://rec2.distv.net/Liliane/Liliane/157
+http://rec2.distv.net/girlene/123/641
 
 #EXTINF:-1,HBO FAMILY
-http://rec2.distv.net/Liliane/Liliane/158
+http://rec2.distv.net/girlene/123/642
+
+#EXTINF:-1,HBO MAX 1
+http://portal.supertela.cloudns.cl/Tereza/123456/49353
+
+#EXTINF:-1,HBO MAX 2
+http://portal.supertela.cloudns.cl/Tereza/123456/49354
+
+#EXTINF:-1,HBO MAX 3
+http://portal.supertela.cloudns.cl/Tereza/123456/68167
+
+#EXTINF:-1,HBO MAX 4
+http://portal.supertela.cloudns.cl/Tereza/123456/68168
+
+#EXTINF:-1,HBO MAX 5
+http://portal.supertela.cloudns.cl/Tereza/123456/68169
+
+#EXTINF:-1,HBO MAX 6
+http://portal.supertela.cloudns.cl/Tereza/123456/68170
+
+#EXTINF:-1,HBO MAX 7
+http://sv1.casaplayer.com.br:8080/dayana/102030/58471
+
+#EXTINF:-1,HBO MAX 8
+http://sv1.casaplayer.com.br:8080/dayana/102030/58472
+
+#EXTINF:-1,HBO MAX 9
+http://sv1.casaplayer.com.br:8080/dayana/102030/58473
 
 #EXTINF:-1,HBO MUNDI
-http://rec2.distv.net/Liliane/Liliane/159
+http://rec2.distv.net/girlene/123/643
 
 #EXTINF:-1,HBO PLUS
-http://rec2.distv.net/Liliane/Liliane/160
+http://rec2.distv.net/girlene/123/644
 
 #EXTINF:-1,HBO POP
-http://rec2.distv.net/Liliane/Liliane/161
+http://rec2.distv.net/girlene/123/645
 
 #EXTINF:-1,HBO SIGNATURE
-http://rec2.distv.net/Liliane/Liliane/162
+http://rec2.distv.net/girlene/123/646
 
 #EXTINF:-1,HBO XTREME
-http://rec2.distv.net/Liliane/Liliane/163
+http://rec2.distv.net/girlene/123/647
 
 #EXTINF:-1,HGTV
-http://rec2.distv.net/Liliane/Liliane/164
+http://rec2.distv.net/girlene/123/613
 
 #EXTINF:-1,HISTORY
-http://rec2.distv.net/Liliane/Liliane/165
+http://rec2.distv.net/girlene/123/614
 
-#EXTINF:-1,HISTORY 2
-http://rec2.distv.net/Liliane/Liliane/166
+#EXTINF:-1,ID TV
+http://rec2.distv.net/girlene/123/365
 
-#EXTINF:-1,INTERTV CABUGI(GLOBO)
-http://rec2.distv.net/Liliane/Liliane/295
+#EXTINF:-1,INTERTV GRANDE MINAS
+http://rec2.distv.net/girlene/123/455
 
-#EXTINF:-1,LIFE TIME
-http://rec2.distv.net/Liliane/Liliane/167
+#EXTINF:-1,JOVEM PAN NEWS
+http://rec2.distv.net/girlene/123/436
+
+#EXTINF:-1,JP NEWS
+http://rec2.distv.net/girlene/123/468
+
+#EXTINF:-1,LIFETIME
+http://rec2.distv.net/girlene/123/648
+
+#EXTINF:-1,LIKE
+http://rec2.distv.net/girlene/123/685
+
+#EXTINF:-1,LOVE NATURE
+http://rec2.distv.net/girlene/123/616
 
 #EXTINF:-1,MAIS GLOBOSAT
-http://rec2.distv.net/Liliane/Liliane/235
+http://rec2.distv.net/girlene/123/628
 
 #EXTINF:-1,MEGAPIX
-http://rec2.distv.net/Liliane/Liliane/168
+http://rec2.distv.net/girlene/123/649
 
 #EXTINF:-1,MTV
-http://rec2.distv.net/Liliane/Liliane/169
+http://rec2.distv.net/girlene/123/617
 
 #EXTINF:-1,MTV LIVE
-http://rec2.distv.net/Liliane/Liliane/236
+http://rec2.distv.net/girlene/123/618
 
 #EXTINF:-1,MULTISHOW
-http://rec2.distv.net/Liliane/Liliane/170
+http://rec2.distv.net/girlene/123/619
 
-#EXTINF:-1,MUSIC BOX BRAZIL
-http://rec2.distv.net/Liliane/Liliane/171
+#EXTINF:-1,MUSIC BOX
+http://rec2.distv.net/girlene/123/671
 
 #EXTINF:-1,NAT GEO
-http://rec2.distv.net/Liliane/Liliane/172
+http://rec2.distv.net/girlene/123/620
 
 #EXTINF:-1,NAT GEO KIDS
-http://rec2.distv.net/Liliane/Liliane/173
+http://rec2.distv.net/girlene/123/591
 
 #EXTINF:-1,NAT GEO WILD
-http://rec2.distv.net/Liliane/Liliane/174
+http://rec2.distv.net/girlene/123/621
 
 #EXTINF:-1,NBR TV
-http://rec2.distv.net/Liliane/Liliane/271
+http://rec2.distv.net/girlene/123/437
 
 #EXTINF:-1,NICK
-http://rec2.distv.net/Liliane/Liliane/175
+http://rec2.distv.net/girlene/123/592
 
 #EXTINF:-1,NICK JR
-http://rec2.distv.net/Liliane/Liliane/176
+http://rec2.distv.net/girlene/123/593
 
 #EXTINF:-1,OFF
-http://rec2.distv.net/Liliane/Liliane/177
+http://rec2.distv.net/girlene/123/622
 
 #EXTINF:-1,PARAMOUNT
-http://rec2.distv.net/Liliane/Liliane/178
+http://rec2.distv.net/girlene/123/650
 
 #EXTINF:-1,PLAY TV
-http://rec2.distv.net/Liliane/Liliane/217
+http://rec2.distv.net/girlene/123/438
 
 #EXTINF:-1,POLISHOP
-http://rec2.distv.net/Liliane/Liliane/272
+http://rec2.distv.net/girlene/123/439
 
 #EXTINF:-1,PREMIERE 2
-http://rec2.distv.net/Liliane/Liliane/179
+http://rec2.distv.net/girlene/123/542
 
 #EXTINF:-1,PREMIERE 3
-http://rec2.distv.net/Liliane/Liliane/180
+http://rec2.distv.net/girlene/123/543
 
 #EXTINF:-1,PREMIERE 4
-http://rec2.distv.net/Liliane/Liliane/181
+http://rec2.distv.net/girlene/123/544
 
 #EXTINF:-1,PREMIERE 5
-http://rec2.distv.net/Liliane/Liliane/182
+http://rec2.distv.net/girlene/123/545
 
 #EXTINF:-1,PREMIERE 6
-http://rec2.distv.net/Liliane/Liliane/183
+http://rec2.distv.net/girlene/123/546
 
 #EXTINF:-1,PREMIERE 7
-http://rec2.distv.net/Liliane/Liliane/237
+http://rec2.distv.net/girlene/123/547
 
 #EXTINF:-1,PREMIERE CLUBES
-http://rec2.distv.net/Liliane/Liliane/184
+http://rec2.distv.net/girlene/123/541
 
-#EXTINF:-1,PRIME BOX BRAZIL
-http://rec2.distv.net/Liliane/Liliane/185
+#EXTINF:-1,PRIME BOX
+http://rec2.distv.net/girlene/123/670
 
-#EXTINF:-1,RECORD BAHIA 
-http://rec2.distv.net/Liliane/Liliane/23
+#EXTINF:-1,PRIME BOX BRASIL
+http://rec2.distv.net/girlene/123/503
 
-#EXTINF:-1,RECORD BRASILIA 
-http://rec2.distv.net/Liliane/Liliane/25
+#EXTINF:-1,RECORD BAHIA
+http://rec2.distv.net/girlene/123/490
 
-#EXTINF:-1,RECORD GOIAS 
-http://rec2.distv.net/Liliane/Liliane/26
+#EXTINF:-1,RECORD BELEM
+http://rec2.distv.net/girlene/123/491
+
+#EXTINF:-1,RECORD BRASILIA
+http://rec2.distv.net/girlene/123/492
+
+#EXTINF:-1,RECORD FEIRA SANTA
+http://rec2.distv.net/girlene/123/390
+
+#EXTINF:-1,RECORD GOIAS
+http://rec2.distv.net/girlene/123/493
 
 #EXTINF:-1,RECORD MANAUS
-http://rec2.distv.net/Liliane/Liliane/22
+http://rec2.distv.net/girlene/123/494
 
-#EXTINF:-1,RECORD MG
-http://rec2.distv.net/Liliane/Liliane/32
+#EXTINF:-1,RECORD MINAS
+http://rec2.distv.net/girlene/123/495
 
-#EXTINF:-1,RECORD MINAS 
-http://rec2.distv.net/Liliane/Liliane/27
+#EXTINF:-1,RECORD NEWS
+http://rec2.distv.net/girlene/123/383
 
-#EXTINF:-1,RECORD NEWS 
-http://rec2.distv.net/Liliane/Liliane/28
+#EXTINF:-1,RECORD NEWS
+http://rec2.distv.net/girlene/123/496
 
-#EXTINF:-1,RECORD PARA 
-http://rec2.distv.net/Liliane/Liliane/30
+#EXTINF:-1,RECORD NEWS TO
+http://rec2.distv.net/girlene/123/411
 
-#EXTINF:-1,RECORD RIO 
-http://rec2.distv.net/Liliane/Liliane/31
+#EXTINF:-1,RECORD RIO
+http://rec2.distv.net/girlene/123/497
 
-#EXTINF:-1,RECORD SP 
-http://rec2.distv.net/Liliane/Liliane/33
+#EXTINF:-1,RECORD RS
+http://rec2.distv.net/girlene/123/498
+
+#EXTINF:-1,RECORD SP
+http://rec2.distv.net/girlene/123/499
+
+#EXTINF:-1,REDE CNT
+http://rec2.distv.net/girlene/123/380
+
+#EXTINF:-1,REDE FAMILIA
+http://rec2.distv.net/girlene/123/440
 
 #EXTINF:-1,REDE GENESIS
-http://rec2.distv.net/Liliane/Liliane/273
+http://rec2.distv.net/girlene/123/441
 
 #EXTINF:-1,REDE GOSPEL
-http://rec2.distv.net/Liliane/Liliane/274
+http://rec2.distv.net/girlene/123/442
+
+#EXTINF:-1,REDE MASSA
+http://rec2.distv.net/girlene/123/417
 
 #EXTINF:-1,REDE MINAS
-http://rec2.distv.net/Liliane/Liliane/275
+http://rec2.distv.net/girlene/123/443
 
 #EXTINF:-1,REDE SECULO 21
-http://rec2.distv.net/Liliane/Liliane/276
+http://rec2.distv.net/girlene/123/460
+
+#EXTINF:-1,REDE SECULO21
+http://rec2.distv.net/girlene/123/444
 
 #EXTINF:-1,REDE SUPER
-http://rec2.distv.net/Liliane/Liliane/277
+http://rec2.distv.net/girlene/123/445
 
 #EXTINF:-1,REDE TV
-http://rec2.distv.net/Liliane/Liliane/69
+http://rec2.distv.net/girlene/123/392
 
 #EXTINF:-1,REDE VIDA
-http://rec2.distv.net/Liliane/Liliane/218
+http://rec2.distv.net/girlene/123/366
+
+#EXTINF:-1,REDE VIDA
+http://rec2.distv.net/girlene/123/418
+
+#EXTINF:-1,REDE VIDA EDUCACACAO
+http://rec2.distv.net/girlene/123/367
+
+#EXTINF:-1,REDE VIDA EDUCACAO 2
+http://rec2.distv.net/girlene/123/368
+
+#EXTINF:-1,RICTV MARINGAE RECORD TV
+http://rec2.distv.net/girlene/123/419
 
 #EXTINF:-1,RIT TV
-http://rec2.distv.net/Liliane/Liliane/70
+http://rec2.distv.net/girlene/123/363
+
+#EXTINF:-1,RPC GLOBO MARINGA
+http://rec2.distv.net/girlene/123/420
 
 #EXTINF:-1,SBT
-http://rec2.distv.net/Liliane/Liliane/238
+http://rec2.distv.net/girlene/123/384
 
-#EXTINF:-1,SBT RN
-http://rec2.distv.net/Liliane/Liliane/296
+#EXTINF:-1,SMITHSONIAN
+http://rec2.distv.net/girlene/123/623
 
 #EXTINF:-1,SPACE
-http://rec2.distv.net/Liliane/Liliane/187
+http://rec2.distv.net/girlene/123/651
 
 #EXTINF:-1,SPORTV
-http://rec2.distv.net/Liliane/Liliane/188
+http://rec2.distv.net/girlene/123/548
 
 #EXTINF:-1,SPORTV 2
-http://rec2.distv.net/Liliane/Liliane/189
+http://rec2.distv.net/girlene/123/549
 
 #EXTINF:-1,SPORTV 3
-http://rec2.distv.net/Liliane/Liliane/190
+http://rec2.distv.net/girlene/123/550
+
+#EXTINF:-1,STAR
+http://rec2.distv.net/girlene/123/675
+
+#EXTINF:-1,STAR+
+http://portal.supertela.cloudns.cl/Tereza/123456/45564
+
+#EXTINF:-1,STAR+ 2
+http://portal.supertela.cloudns.cl/Tereza/123456/61801
+
+#EXTINF:-1,STAR+ 3
+http://portal.supertela.cloudns.cl/Tereza/123456/61802
+
+#EXTINF:-1,STAR+ 4
+http://portal.supertela.cloudns.cl/Tereza/123456/65216
+
+#EXTINF:-1,STAR+ 5
+http://sv1.casaplayer.com.br:8080/dayana/102030/58475
+
+#EXTINF:-1,STAR+ 6
+http://sv1.casaplayer.com.br:8080/dayana/102030/58476
+
+#EXTINF:-1,STAR+ 7
+http://sv1.casaplayer.com.br:8080/dayana/102030/58477
+
+#EXTINF:-1,STAR HITS 1
+http://rec2.distv.net/girlene/123/676
+
+#EXTINF:-1,STAR LIFE
+http://rec2.distv.net/girlene/123/678
+
+#EXTINF:-1,START HITS 2
+http://rec2.distv.net/girlene/123/677
 
 #EXTINF:-1,STUDIO UNIVERSAL
-http://rec2.distv.net/Liliane/Liliane/191
+http://rec2.distv.net/girlene/123/652
+
+#EXTINF:-1,SUBAE
+http://rec2.distv.net/girlene/123/389
 
 #EXTINF:-1,SYFY
-http://rec2.distv.net/Liliane/Liliane/192
-
-#EXTINF:-1,TBC
-http://rec2.distv.net/Liliane/Liliane/278
+http://rec2.distv.net/girlene/123/653
 
 #EXTINF:-1,TBS
-http://rec2.distv.net/Liliane/Liliane/193
+http://rec2.distv.net/girlene/123/654
+
+#EXTINF:-1,TCM
+http://rec2.distv.net/girlene/123/686
 
 #EXTINF:-1,TELECINE ACTION
-http://rec2.distv.net/Liliane/Liliane/194
+http://rec2.distv.net/girlene/123/655
 
 #EXTINF:-1,TELECINE CULT
-http://rec2.distv.net/Liliane/Liliane/195
+http://rec2.distv.net/girlene/123/656
 
 #EXTINF:-1,TELECINE FUN
-http://rec2.distv.net/Liliane/Liliane/196
+http://rec2.distv.net/girlene/123/657
 
 #EXTINF:-1,TELECINE PIPOCA
-http://rec2.distv.net/Liliane/Liliane/197
+http://rec2.distv.net/girlene/123/658
 
 #EXTINF:-1,TELECINE PREMIUM
-http://rec2.distv.net/Liliane/Liliane/198
+http://rec2.distv.net/girlene/123/659
 
 #EXTINF:-1,TELECINE TOUCH
-http://rec2.distv.net/Liliane/Liliane/199
+http://rec2.distv.net/girlene/123/660
+
+#EXTINF:-1,TERRA VIVA
+http://rec2.distv.net/girlene/123/446
 
 #EXTINF:-1,TLC
-http://rec2.distv.net/Liliane/Liliane/200
+http://rec2.distv.net/girlene/123/661
 
 #EXTINF:-1,TNT
-http://rec2.distv.net/Liliane/Liliane/201
+http://rec2.distv.net/girlene/123/662
 
 #EXTINF:-1,TNT SERIES
-http://rec2.distv.net/Liliane/Liliane/202
+http://rec2.distv.net/girlene/123/663
+
+#EXTINF:-1,TNT SPORTS
+http://rec2.distv.net/girlene/123/559
+
+#EXTINF:-1,TNT SPORTS 2
+http://rec2.distv.net/girlene/123/560
+
+#EXTINF:-1,TNT SPORTS 3
+http://rec2.distv.net/girlene/123/561
+
+#EXTINF:-1,TNT SPORTS 4
+http://rec2.distv.net/girlene/123/562
+
+#EXTINF:-1,TNT SPORTS 5
+http://rec2.distv.net/girlene/123/680
 
 #EXTINF:-1,TOONCAST
-http://rec2.distv.net/Liliane/Liliane/203
+http://rec2.distv.net/girlene/123/594
 
-#EXTINF:-1,TRAVELBOX
-http://rec2.distv.net/Liliane/Liliane/240
+#EXTINF:-1,TRAVELBOX BRAZIL
+http://rec2.distv.net/girlene/123/673
 
-#EXTINF:-1,TV ALEPE
-http://rec2.distv.net/Liliane/Liliane/72
+#EXTINF:-1,TRUETV
+http://rec2.distv.net/girlene/123/667
 
-#EXTINF:-1,TV ARAPUAN
-http://rec2.distv.net/Liliane/Liliane/98
+#EXTINF:-1,TV A CRITICA
+http://rec2.distv.net/girlene/123/393
 
-#EXTINF:-1,TV BRASIL
-http://rec2.distv.net/Liliane/Liliane/241
+#EXTINF:-1,TV ALEPE(FUTURA)
+http://rec2.distv.net/girlene/123/346
+
+#EXTINF:-1,TV APARECIDA
+http://rec2.distv.net/girlene/123/425
+
+#EXTINF:-1,TV APDA
+http://rec2.distv.net/girlene/123/379
+
+#EXTINF:-1,TV ARAPUAN REDE TV
+http://rec2.distv.net/girlene/123/369
+
+#EXTINF:-1,TV ARATU
+http://rec2.distv.net/girlene/123/357
+
+#EXTINF:-1,TV ARATU FEIRA
+http://rec2.distv.net/girlene/123/388
+
+#EXTINF:-1,TV ASA BRANCA
+http://rec2.distv.net/girlene/123/471
+
+#EXTINF:-1,TV BOA VONTADE
+http://rec2.distv.net/girlene/123/422
 
 #EXTINF:-1,TV BRASIL 2
-http://rec2.distv.net/Liliane/Liliane/279
+http://rec2.distv.net/girlene/123/447
 
-#EXTINF:-1,TV CABO BRANCO PB
-http://rec2.distv.net/Liliane/Liliane/100
+#EXTINF:-1,TV CABO BRANCO GLOBO
+http://rec2.distv.net/girlene/123/370
+
+#EXTINF:-1,TV CAFE COM LEITE
+http://rec2.distv.net/girlene/123/404
+
+#EXTINF:-1,TV CAIUA
+http://rec2.distv.net/girlene/123/423
+
+#EXTINF:-1,TV CAM RECIFE
+http://rec2.distv.net/girlene/123/347
 
 #EXTINF:-1,TV CAMARA
-http://rec2.distv.net/Liliane/Liliane/222
+http://rec2.distv.net/girlene/123/371
+
+#EXTINF:-1,TV CAMERA SAT
+http://rec2.distv.net/girlene/123/500
 
 #EXTINF:-1,TV CIDADE
-http://rec2.distv.net/Liliane/Liliane/308
+http://rec2.distv.net/girlene/123/394
 
-#EXTINF:-1,TV CORREIO PB
-http://rec2.distv.net/Liliane/Liliane/101
+#EXTINF:-1,TV CIDADE CARIRI
+http://rec2.distv.net/girlene/123/403
+
+#EXTINF:-1,TV CORREIO RECORD TV
+http://rec2.distv.net/girlene/123/372
 
 #EXTINF:-1,TV DIARIO
-http://rec2.distv.net/Liliane/Liliane/309
+http://rec2.distv.net/girlene/123/395
+
+#EXTINF:-1,TV EDUCATIVA
+http://rec2.distv.net/girlene/123/467
+
+#EXTINF:-1,TV ESCOLA
+http://rec2.distv.net/girlene/123/355
 
 #EXTINF:-1,TV ESCOLA DIGITAL
-http://rec2.distv.net/Liliane/Liliane/280
+http://rec2.distv.net/girlene/123/448
 
-#EXTINF:-1,TV EVANGELIZAR
-http://rec2.distv.net/Liliane/Liliane/91
+#EXTINF:-1,TV ESCOLA JUAZEIRO
+http://rec2.distv.net/girlene/123/359
 
-#EXTINF:-1,TV GLOBO NE
-http://rec2.distv.net/Liliane/Liliane/75
+#EXTINF:-1,TV EVANGELICA DO CARIRI
+http://rec2.distv.net/girlene/123/408
+
+#EXTINF:-1,TV FUTURA
+http://rec2.distv.net/girlene/123/396
+
+#EXTINF:-1,TV GAZETA ALAGOAS
+http://rec2.distv.net/girlene/123/472
+
+#EXTINF:-1,TV GAZETA VITORIA ES
+http://rec2.distv.net/girlene/123/473
+
+#EXTINF:-1,TV GRANDE RIO
+http://rec2.distv.net/girlene/123/360
 
 #EXTINF:-1,TV GUARARAPES
-http://rec2.distv.net/Liliane/Liliane/73
+http://rec2.distv.net/girlene/123/356
 
 #EXTINF:-1,TV HORIZONTE
-http://rec2.distv.net/Liliane/Liliane/281
+http://rec2.distv.net/girlene/123/449
 
 #EXTINF:-1,TV JANGADEIRO
-http://rec2.distv.net/Liliane/Liliane/90
+http://rec2.distv.net/girlene/123/397
 
-#EXTINF:-1,TV JORNAL
-http://rec2.distv.net/Liliane/Liliane/76
+#EXTINF:-1,TV JANGADEIRO
+http://rec2.distv.net/girlene/123/405
 
-#EXTINF:-1,TV MIRAMAR PB
-http://rec2.distv.net/Liliane/Liliane/102
+#EXTINF:-1,TV JORNAL(SBT)
+http://rec2.distv.net/girlene/123/344
+
+#EXTINF:-1,TV M
+http://rec2.distv.net/girlene/123/398
+
+#EXTINF:-1,TV MANAIRA BAND
+http://rec2.distv.net/girlene/123/373
+
+#EXTINF:-1,TV MIRAMAR TV CULTURA
+http://rec2.distv.net/girlene/123/374
+
+#EXTINF:-1,TV MORENA
+http://rec2.distv.net/girlene/123/474
+
+#EXTINF:-1,TV NAZARE
+http://rec2.distv.net/girlene/123/450
+
+#EXTINF:-1,TV Nova ED2
+http://rec2.distv.net/girlene/123/350
+
+#EXTINF:-1,TV Nova ED3
+http://rec2.distv.net/girlene/123/351
+
+#EXTINF:-1,TV Nova ED4
+http://rec2.distv.net/girlene/123/352
 
 #EXTINF:-1,TV NOVA NORDESTE
-http://rec2.distv.net/Liliane/Liliane/62
+http://rec2.distv.net/girlene/123/349
 
 #EXTINF:-1,TV NOVO TEMPO
-http://rec2.distv.net/Liliane/Liliane/242
+http://rec2.distv.net/girlene/123/385
+
+#EXTINF:-1,TV NOVO TEMPO
+http://rec2.distv.net/girlene/123/375
 
 #EXTINF:-1,TV PAI ETERNO
-http://rec2.distv.net/Liliane/Liliane/103
+http://rec2.distv.net/girlene/123/399
+
+#EXTINF:-1,TV PARAIBA EDUCA
+http://rec2.distv.net/girlene/123/376
 
 #EXTINF:-1,TV RA TIM BUM
-http://rec2.distv.net/Liliane/Liliane/204
+http://rec2.distv.net/girlene/123/595
 
 #EXTINF:-1,TV RIOSUL
-http://rec2.distv.net/Liliane/Liliane/283
+http://rec2.distv.net/girlene/123/451
 
-#EXTINF:-1,TV TRIBUNA
-http://rec2.distv.net/Liliane/Liliane/77
+#EXTINF:-1,TV SANTA CRUZ (GLOBO)
+http://rec2.distv.net/girlene/123/457
+
+#EXTINF:-1,TV SAO FRANCISCO
+http://rec2.distv.net/girlene/123/358
+
+#EXTINF:-1,TV SENADO SAT
+http://rec2.distv.net/girlene/123/501
+
+#EXTINF:-1,TV SUBAE(GLOBO)
+http://rec2.distv.net/girlene/123/458
+
+#EXTINF:-1,TV TAMBAU SBT
+http://rec2.distv.net/girlene/123/377
+
+#EXTINF:-1,TV TAROBA CASCAVEL BAND
+http://rec2.distv.net/girlene/123/421
+
+#EXTINF:-1,TV TRIBUNA(BAND)
+http://rec2.distv.net/girlene/123/345
 
 #EXTINF:-1,TV TROPICAL (RECORD TV)
-http://rec2.distv.net/Liliane/Liliane/298
+http://rec2.distv.net/girlene/123/386
 
-#EXTINF:-1,TV UFPB TV
-http://rec2.distv.net/Liliane/Liliane/104
+#EXTINF:-1,TV UFPB TV BRASIL
+http://rec2.distv.net/girlene/123/378
 
 #EXTINF:-1,TV UNIAO
-http://rec2.distv.net/Liliane/Liliane/92
+http://rec2.distv.net/girlene/123/400
 
-#EXTINF:-1,TV VERDE MARES CE
-http://rec2.distv.net/Liliane/Liliane/306
+#EXTINF:-1,TV UNIVERSITARIA
+http://rec2.distv.net/girlene/123/348
 
-#EXTINF:-1,TV VERDE VALE
-http://rec2.distv.net/Liliane/Liliane/293
+#EXTINF:-1,TV UP (FUTURA)
+http://rec2.distv.net/girlene/123/424
+
+#EXTINF:-1,TV VERDADE
+http://rec2.distv.net/girlene/123/426
+
+#EXTINF:-1,TV VERDE MARES
+http://rec2.distv.net/girlene/123/489
+
+#EXTINF:-1,TV VERDE MARES
+http://rec2.distv.net/girlene/123/407
+
+#EXTINF:-1,TV VERDE VALE CARIRI
+http://rec2.distv.net/girlene/123/406
+
+#EXTINF:-1,TVE
+http://rec2.distv.net/girlene/123/361
+
+#EXTINF:-1,TVE REME
+http://rec2.distv.net/girlene/123/463
+
+#EXTINF:-1,TVPE ( TV BRASIL)
+http://rec2.distv.net/girlene/123/353
+
+#EXTINF:-1,TVU CEARA
+http://rec2.distv.net/girlene/123/401
+
+#EXTINF:-1,TVU NATAL RN
+http://rec2.distv.net/girlene/123/387
 
 #EXTINF:-1,UNIVERSAL TV
-http://rec2.distv.net/Liliane/Liliane/205
+http://rec2.distv.net/girlene/123/664
 
-#EXTINF:-1,VH1
-http://rec2.distv.net/Liliane/Liliane/206
+#EXTINF:-1,VH1 MEGA HITS
+http://rec2.distv.net/girlene/123/624
 
 #EXTINF:-1,VIVA
-http://rec2.distv.net/Liliane/Liliane/207
+http://rec2.distv.net/girlene/123/625
 
 #EXTINF:-1,WARNER CHANNEL
-http://rec2.distv.net/Liliane/Liliane/208
+http://rec2.distv.net/girlene/123/665
 
-#EXTINF:-1,WOOHOO
-http://rec2.distv.net/Liliane/Liliane/243
+#EXTINF:-1,Woohoo
+http://rec2.distv.net/girlene/123/679
 
 #EXTINF:-1,ZOOMOO
-http://rec2.distv.net/Liliane/Liliane/244
+http://rec2.distv.net/girlene/123/596
 
