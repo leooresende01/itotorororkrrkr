@@ -510,44 +510,8 @@ http://rec2.distv.net/severino/123/670
 #EXTINF:-1,PRIME BOX BRASIL
 http://rec2.distv.net/severino/123/503
 
-#EXTINF:-1,RECORD BAHIA
-http://rec2.distv.net/severino/123/490
-
-#EXTINF:-1,RECORD BELEM
-http://rec2.distv.net/severino/123/491
-
-#EXTINF:-1,RECORD BRASILIA
-http://rec2.distv.net/severino/123/492
-
-#EXTINF:-1,RECORD FEIRA SANTA
-http://rec2.distv.net/severino/123/390
-
-#EXTINF:-1,RECORD GOIAS
-http://rec2.distv.net/severino/123/493
-
-#EXTINF:-1,RECORD MANAUS
-http://rec2.distv.net/severino/123/494
-
-#EXTINF:-1,RECORD MINAS
-http://rec2.distv.net/severino/123/495
-
-#EXTINF:-1,RECORD NEWS
-http://rec2.distv.net/severino/123/383
-
-#EXTINF:-1,RECORD NEWS
-http://rec2.distv.net/severino/123/496
-
-#EXTINF:-1,RECORD NEWS TO
-http://rec2.distv.net/severino/123/411
-
-#EXTINF:-1,RECORD RIO
-http://rec2.distv.net/severino/123/497
-
-#EXTINF:-1,RECORD RS
-http://rec2.distv.net/severino/123/498
-
-#EXTINF:-1,RECORD SP
-http://rec2.distv.net/severino/123/499
+#EXTINF:-1, RECORD TV
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 
 #EXTINF:-1,REDE CNT
 http://rec2.distv.net/severino/123/380
