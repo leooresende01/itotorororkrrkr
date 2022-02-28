@@ -112,22 +112,28 @@ http://rec2.distv.net/live/edgar/123/364.m3u8
 http://rec2.distv.net/live/edgar/123/391.m3u8
 
 #EXTINF:-1,CARIOCÃO 1
-http://portal.supertela.cloudns.cl/live/Tereza/123456/70798.m3u8
+http://portal.supertela.cloudns.cl/Tereza/123456/70798
 
 #EXTINF:-1,CARIOÇÃO 2
-http://portal.supertela.cloudns.cl/live/Tereza/123456/70799.m3u8
+http://portal.supertela.cloudns.cl/Tereza/123456/70799
 
 #EXTINF:-1,CARIOCÃO 3
-http://sv1.casaplayer.com.br:8080/live/dayana/102030/69564.m3u8
+http://sv1.casaplayer.com.br:8080/dayana/102030/69564
 
-#EXTINF:-1,CARIOÇÃO 4
-http://sv1.casaplayer.com.br:8080/live/dayana/102030/69565.m3u8
+#EXTINF:-1,CARIOCÃO 4
+http://pfsv.io:80/live/solange/123456/62795.m3u8
 
 #EXTINF:-1,CARIOCÃO 5
-http://sv1.casaplayer.com.br:8080/live/dayana/102030/69551.m3u8
+http://pfsv.io:80/live/solange/123456/55190.m3u8
 
-#EXTINF:-1,CARIOCÃO 6
-http://sv1.casaplayer.com.br:8080/live/dayana/102030/69552.m3u8
+#EXTINF:-1,CARIOÇÃO 6
+http://sv1.casaplayer.com.br:8080/dayana/102030/69565
+
+#EXTINF:-1,CARIOCÃO 7
+http://sv1.casaplayer.com.br:8080/dayana/102030/69551
+
+#EXTINF:-1,CARIOCÃO 8
+http://sv1.casaplayer.com.br:8080/dayana/102030/69552
 
 #EXTINF:-1,CARTOON NETWORK
 http://rec2.distv.net/live/edgar/123/584.m3u8
@@ -421,13 +427,13 @@ http://portal.supertela.cloudns.cl/Tereza/123456/49354
 http://portal.supertela.cloudns.cl/Tereza/123456/68167
 
 #EXTINF:-1,HBO MAX 4
-http://portal.supertela.cloudns.cl/Tereza/123456/68168
+http://pfsv.io:80/live/solange/123456/92846.m3u8
 
 #EXTINF:-1,HBO MAX 5
-http://portal.supertela.cloudns.cl/Tereza/123456/68169
+http://pfsv.io:80/live/solange/123456/92845.m3u8
 
 #EXTINF:-1,HBO MAX 6
-http://portal.supertela.cloudns.cl/Tereza/123456/68170
+http://pfsv.io:80/live/solange/123456/92844.m3u8
 
 #EXTINF:-1,HBO MAX 7
 http://sv1.casaplayer.com.br:8080/dayana/102030/58471
@@ -987,7 +993,7 @@ http://rec2.distv.net/live/edgar/123/625.m3u8
 #EXTINF:-1,WARNER CHANNEL
 http://rec2.distv.net/live/edgar/123/665.m3u8
 
-#EXTINF:-1,Woohoo
+#EXTINF:-1,WOOHOO
 http://rec2.distv.net/live/edgar/123/679.m3u8
 
 #EXTINF:-1,ZOOMOO
