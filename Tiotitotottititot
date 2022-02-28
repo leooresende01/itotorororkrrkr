@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="AE" tvg-name="AATESTE" tvg-logo="http://127.0.0.1/icones/ae.png" group-title="FILMES&SERIES",A&E
+http://45.224.115.214:8080/live/lourdes/123456/630.m3u8
+
 #EXTINF:-1,A&E
 http://rec2.distv.net/edgar/123/630
 
