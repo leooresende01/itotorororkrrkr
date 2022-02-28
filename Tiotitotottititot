@@ -1038,28 +1038,28 @@ http://rec2.distv.net/live/edgar/123/364.m3u8
 #EXTINF:-1,CANCAO NOVA ALTENATIVO
 http://rec2.distv.net/live/edgar/123/391.m3u8
 
-#EXTINF:-1,CARIOCÃO 1 ALTENATIVO
+#EXTINF:-1,CARIOCÃO 1
 http://portal.supertela.cloudns.cl/Tereza/123456/70798
 
-#EXTINF:-1,CARIOÇÃO 2 ALTENATIVO
+#EXTINF:-1,CARIOÇÃO 2
 http://portal.supertela.cloudns.cl/Tereza/123456/70799
 
-#EXTINF:-1,CARIOCÃO 3 ALTENATIVO
+#EXTINF:-1,CARIOCÃO 3
 http://sv1.casaplayer.com.br:8080/dayana/102030/69564
 
-#EXTINF:-1,CARIOCÃO 4 ALTENATIVO
+#EXTINF:-1,CARIOCÃO 4
 http://pfsv.io:80/live/solange/123456/62795.m3u8
 
-#EXTINF:-1,CARIOCÃO 5 ALTENATIVO
+#EXTINF:-1,CARIOCÃO 5
 http://pfsv.io:80/live/solange/123456/55190.m3u8
 
-#EXTINF:-1,CARIOÇÃO 6 ALTENATIVO
+#EXTINF:-1,CARIOÇÃO 6
 http://sv1.casaplayer.com.br:8080/dayana/102030/69565
 
-#EXTINF:-1,CARIOCÃO 7 ALTENATIVO
+#EXTINF:-1,CARIOCÃO 7
 http://sv1.casaplayer.com.br:8080/dayana/102030/69551
 
-#EXTINF:-1,CARIOCÃO 8 ALTENATIVO
+#EXTINF:-1,CARIOCÃO 8
 http://sv1.casaplayer.com.br:8080/dayana/102030/69552
 
 #EXTINF:-1,CARTOON NETWORK ALTENATIVO
@@ -1344,31 +1344,31 @@ http://rec2.distv.net/live/edgar/123/641.m3u8
 #EXTINF:-1,HBO FAMILY ALTENATIVO
 http://rec2.distv.net/live/edgar/123/642.m3u8
 
-#EXTINF:-1,HBO MAX 1 ALTENATIVO
+#EXTINF:-1,HBO MAX 1
 http://portal.supertela.cloudns.cl/Tereza/123456/49353
 
-#EXTINF:-1,HBO MAX 2 ALTENATIVO
+#EXTINF:-1,HBO MAX 2
 http://portal.supertela.cloudns.cl/Tereza/123456/49354
 
-#EXTINF:-1,HBO MAX 3 ALTENATIVO
+#EXTINF:-1,HBO MAX 3
 http://portal.supertela.cloudns.cl/Tereza/123456/68167
 
-#EXTINF:-1,HBO MAX 4 ALTENATIVO
+#EXTINF:-1,HBO MAX 4
 http://pfsv.io:80/live/solange/123456/92846.m3u8
 
-#EXTINF:-1,HBO MAX 5 ALTENATIVO
+#EXTINF:-1,HBO MAX 5
 http://pfsv.io:80/live/solange/123456/92845.m3u8
 
-#EXTINF:-1,HBO MAX 6 ALTENATIVO
+#EXTINF:-1,HBO MAX 6
 http://pfsv.io:80/live/solange/123456/92844.m3u8
 
-#EXTINF:-1,HBO MAX 7 ALTENATIVO
+#EXTINF:-1,HBO MAX 7
 http://sv1.casaplayer.com.br:8080/dayana/102030/58471
 
-#EXTINF:-1,HBO MAX 8 ALTENATIVO
+#EXTINF:-1,HBO MAX 8
 http://sv1.casaplayer.com.br:8080/dayana/102030/58472
 
-#EXTINF:-1,HBO MAX 9 ALTENATIVO
+#EXTINF:-1,HBO MAX 9
 http://sv1.casaplayer.com.br:8080/dayana/102030/58473
 
 #EXTINF:-1,HBO MUNDI ALTENATIVO
@@ -1599,25 +1599,25 @@ http://rec2.distv.net/live/edgar/123/550.m3u8
 #EXTINF:-1,STAR ALTENATIVO
 http://rec2.distv.net/live/edgar/123/675.m3u8
 
-#EXTINF:-1,STAR+ ALTENATIVO
+#EXTINF:-1,STAR+
 http://portal.supertela.cloudns.cl/Tereza/123456/45564
 
-#EXTINF:-1,STAR+ 2 ALTENATIVO
+#EXTINF:-1,STAR+ 2
 http://portal.supertela.cloudns.cl/Tereza/123456/61801
 
-#EXTINF:-1,STAR+ 3 ALTENATIVO
+#EXTINF:-1,STAR+ 3
 http://portal.supertela.cloudns.cl/Tereza/123456/61802
 
-#EXTINF:-1,STAR+ 4 ALTENATIVO
+#EXTINF:-1,STAR+ 4
 http://portal.supertela.cloudns.cl/Tereza/123456/65216
 
-#EXTINF:-1,STAR+ 5 ALTENATIVO
+#EXTINF:-1,STAR+ 5
 http://sv1.casaplayer.com.br:8080/dayana/102030/58475
 
-#EXTINF:-1,STAR+ 6 ALTENATIVO
+#EXTINF:-1,STAR+ 6
 http://sv1.casaplayer.com.br:8080/dayana/102030/58476
 
-#EXTINF:-1,STAR+ 7 ALTENATIVO
+#EXTINF:-1,STAR+ 7
 http://sv1.casaplayer.com.br:8080/dayana/102030/58477
 
 #EXTINF:-1,STAR HITS 1 ALTENATIVO
