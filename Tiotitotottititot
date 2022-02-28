@@ -1,5 +1,55 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Variedades", RecordTV
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Variedades", RecordTV Natal - TV Tropical
+https://59f1cbe63db89.streamlock.net:1443/raniere/_definst_/raniere/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Variedades", RecordTV Rio de Janeiro
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Variedades", RecordTV Bahia
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Variedades", RecordTV Brasília
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Variedades", RecordTV Belo Horizonte
+https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/master.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Variedades", RecordTV Pará
+https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/master.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Variedades", RecordTV Manaus
+https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Variedades", RecordTV Goiás
+https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/master.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Variedades", RecordTV Rio Grande do Sul
+https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/master.m3u8
+
+
+
 #EXTINF:-1,A&E
 http://rec2.distv.net/severino/123/630
 
@@ -23,21 +73,6 @@ http://rec2.distv.net/severino/123/632
 
 #EXTINF:-1,BABY TV
 http://rec2.distv.net/severino/123/582
-
-#EXTINF:-1,BAND CARIRI
-http://rec2.distv.net/severino/123/402
-
-#EXTINF:-1,BAND NEWS
-http://rec2.distv.net/severino/123/504
-
-#EXTINF:-1,BAND NEWS
-http://rec2.distv.net/severino/123/629
-
-#EXTINF:-1,BAND RN
-http://rec2.distv.net/severino/123/381
-
-#EXTINF:-1,BAND SAT
-http://rec2.distv.net/severino/123/502
 
 #EXTINF:-1,BAND SPORTS
 http://rec2.distv.net/severino/123/532
@@ -915,20 +950,11 @@ http://rec2.distv.net/live/edgar/123/632.m3u8
 #EXTINF:-1,BABY TV ALTENATIVO
 http://rec2.distv.net/live/edgar/123/582.m3u8
 
-#EXTINF:-1,BAND CARIRI ALTENATIVO
-http://rec2.distv.net/live/edgar/123/402.m3u8
-
 #EXTINF:-1,BAND NEWS ALTENATIVO
 http://rec2.distv.net/live/edgar/123/504.m3u8
 
 #EXTINF:-1,BAND NEWS ALTENATIVO
 http://rec2.distv.net/live/edgar/123/629.m3u8
-
-#EXTINF:-1,BAND RN ALTENATIVO
-http://rec2.distv.net/live/edgar/123/381.m3u8
-
-#EXTINF:-1,BAND SAT ALTENATIVO
-http://rec2.distv.net/live/edgar/123/502.m3u8
 
 #EXTINF:-1,BAND SPORTS ALTENATIVO
 http://rec2.distv.net/live/edgar/123/532.m3u8
@@ -1242,50 +1268,8 @@ http://rec2.distv.net/live/edgar/123/669.m3u8
 #EXTINF:-1,FX ALTENATIVO
 http://rec2.distv.net/live/edgar/123/639.m3u8
 
-#EXTINF:-1,GLOBO BRASILIA ALTENATIVO
-http://rec2.distv.net/live/edgar/123/475.m3u8
-
-#EXTINF:-1,GLOBO FLORIANOPOLIS ALTENATIVO
-http://rec2.distv.net/live/edgar/123/476.m3u8
-
-#EXTINF:-1,GLOBO MINAS ALTENATIVO
-http://rec2.distv.net/live/edgar/123/477.m3u8
-
-#EXTINF:-1,GLOBO NATAL ALTENATIVO
-http://rec2.distv.net/live/edgar/123/478.m3u8
-
 #EXTINF:-1,GLOBO NEWS ALTENATIVO
 http://rec2.distv.net/live/edgar/123/627.m3u8
-
-#EXTINF:-1,GLOBO NORDESTE ALTENATIVO
-http://rec2.distv.net/live/edgar/123/479.m3u8
-
-#EXTINF:-1,GLOBO REDE AMAZONICA ALTENATIVO
-http://rec2.distv.net/live/edgar/123/482.m3u8
-
-#EXTINF:-1,GLOBO RIO ALTENATIVO
-http://rec2.distv.net/live/edgar/123/480.m3u8
-
-#EXTINF:-1,GLOBO RIO GRANDE DO SUL ALTENATIVO
-http://rec2.distv.net/live/edgar/123/481.m3u8
-
-#EXTINF:-1,GLOBO RPC CURITIBA ALTENATIVO
-http://rec2.distv.net/live/edgar/123/483.m3u8
-
-#EXTINF:-1,GLOBO SP ALTENATIVO
-http://rec2.distv.net/live/edgar/123/484.m3u8
-
-#EXTINF:-1,GLOBO TV ANHANGUERA GOIANIA ALTENATIVO
-http://rec2.distv.net/live/edgar/123/485.m3u8
-
-#EXTINF:-1,GLOBO TV BAHIA ALTENATIVO
-http://rec2.distv.net/live/edgar/123/486.m3u8
-
-#EXTINF:-1,GLOBO TV LIBERAL BELEM ALTENATIVO
-http://rec2.distv.net/live/edgar/123/487.m3u8
-
-#EXTINF:-1,GLOBO TV MIRANTE ALTENATIVO
-http://rec2.distv.net/live/edgar/123/488.m3u8
 
 #EXTINF:-1,GLOOB ALTENATIVO
 http://rec2.distv.net/live/edgar/123/589.m3u8
@@ -1451,45 +1435,6 @@ http://rec2.distv.net/live/edgar/123/670.m3u8
 
 #EXTINF:-1,PRIME BOX BRASIL ALTENATIVO
 http://rec2.distv.net/live/edgar/123/503.m3u8
-
-#EXTINF:-1,RECORD BAHIA ALTENATIVO
-http://rec2.distv.net/live/edgar/123/490.m3u8
-
-#EXTINF:-1,RECORD BELEM ALTENATIVO
-http://rec2.distv.net/live/edgar/123/491.m3u8
-
-#EXTINF:-1,RECORD BRASILIA ALTENATIVO
-http://rec2.distv.net/live/edgar/123/492.m3u8
-
-#EXTINF:-1,RECORD FEIRA SANTA ALTENATIVO
-http://rec2.distv.net/live/edgar/123/390.m3u8
-
-#EXTINF:-1,RECORD GOIAS ALTENATIVO
-http://rec2.distv.net/live/edgar/123/493.m3u8
-
-#EXTINF:-1,RECORD MANAUS ALTENATIVO
-http://rec2.distv.net/live/edgar/123/494.m3u8
-
-#EXTINF:-1,RECORD MINAS ALTENATIVO
-http://rec2.distv.net/live/edgar/123/495.m3u8
-
-#EXTINF:-1,RECORD NEWS ALTENATIVO
-http://rec2.distv.net/live/edgar/123/383.m3u8
-
-#EXTINF:-1,RECORD NEWS ALTENATIVO
-http://rec2.distv.net/live/edgar/123/496.m3u8
-
-#EXTINF:-1,RECORD NEWS TO ALTENATIVO
-http://rec2.distv.net/live/edgar/123/411.m3u8
-
-#EXTINF:-1,RECORD RIO ALTENATIVO
-http://rec2.distv.net/live/edgar/123/497.m3u8
-
-#EXTINF:-1,RECORD RS ALTENATIVO
-http://rec2.distv.net/live/edgar/123/498.m3u8
-
-#EXTINF:-1,RECORD SP ALTENATIVO
-http://rec2.distv.net/live/edgar/123/499.m3u8
 
 #EXTINF:-1,REDE CNT ALTENATIVO
 http://rec2.distv.net/live/edgar/123/380.m3u8
