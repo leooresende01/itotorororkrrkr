@@ -1,5 +1,29 @@
 #EXTM3U
 
+#EXTINF:-1,CARIOCAO 4
+http://cdn1.mg99.xyz/graca123/123graca/898774
+
+#EXTINF:-1,CARIOCAO 5
+http://cdn1.mg99.xyz/graca123/123graca/898775
+
+#EXTINF:-1,CARIOCAO 3
+http://sv1.casaplayer.com.br:8080/dayana/102030/69564
+
+#EXTINF:-1,CARIOCAO 1
+http://pfsv.io:80/live/solange/123456/62795.m3u8
+
+#EXTINF:-1,CARIOCAO 2
+http://pfsv.io:80/live/solange/123456/55190.m3u8
+
+#EXTINF:-1,CARIOCAO 6
+http://sv1.casaplayer.com.br:8080/dayana/102030/69565
+
+#EXTINF:-1,CARIOCAO 7
+http://sv1.casaplayer.com.br:8080/dayana/102030/69551
+
+#EXTINF:-1,CARIOCAO 8
+http://sv1.casaplayer.com.br:8080/dayana/102030/69552
+
 #EXTINF:-1,A&E
 http://rec2.distv.net/severino/123/630
 
