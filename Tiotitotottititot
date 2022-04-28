@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1,CARTOON NETWORK - PRINCIPAL
 https://live.xvideosporn.me/p2p/cartoon/chunks.m3u8
 
@@ -7,7 +8,7 @@ https://live.xvideosporn.me/p2p/comedycentral/chunks.m3u8
 #EXTINF:-1,DISNEY CHANNEL - PRINCIPAL
 https://live.xvideosporn.me/p2p/disneychannel/chunks.m3u8
 
-#EXTINF:-1,ESPN - PRINCIPAL
+#EXTINF:-1,ESPN 1 - PRINCIPAL
 https://live.xvideosporn.me/p2p/spn/chunks.m3u8
 
 #EXTINF:-1,ESPN 2 - PRINCIPAL
@@ -88,7 +89,7 @@ https://live.xvideosporn.me/p2p/sbt/chunks.m3u8
 #EXTINF:-1,SPACE - PRINCIPAL
 https://live.xvideosporn.me/p2p/space/chunks.m3u8
 
-#EXTINF:-1,SPORTV - PRINCIPAL
+#EXTINF:-1,SPORTV 1 - PRINCIPAL
 https://live.xvideosporn.me/p2p/sportv/chunks.m3u8
 
 #EXTINF:-1,SPORTV 2 - PRINCIPAL
@@ -420,11 +421,11 @@ http://cms-eu-01.casap2p.online/adelson2022/adelson2022/6565
 http://cms-eu-01.casap2p.online/adelson2022/adelson2022/6567
 
 
-#EXTINF:-1,PREMIERE CLUBES - OPCAO 3 1
+#EXTINF:-1,PREMIERE 1 - OPCAO 3 1
 http://cms-eu-01.casap2p.online/adelson2022/adelson2022/19381
 
 
-#EXTINF:-1,PREMIERE CLUBES - OPCAO 3 1 (S1) 
+#EXTINF:-1,PREMIERE 1 - OPCAO 3 1 (S1) 
 http://cms-eu-01.casap2p.online/adelson2022/adelson2022/58136
 
 
@@ -464,11 +465,11 @@ http://cms-eu-01.casap2p.online/adelson2022/adelson2022/58270
 http://cms-eu-01.casap2p.online/adelson2022/adelson2022/58274
 
 
-#EXTINF:-1,SPORTV - OPCAO 3
+#EXTINF:-1,SPORTV 1 - OPCAO 3
 http://cms-eu-01.casap2p.online/adelson2022/adelson2022/46723
 
 
-#EXTINF:-1,SPORTV - OPCAO 3 (S1) 
+#EXTINF:-1,SPORTV 1 - OPCAO 3 (S1) 
 http://cms-eu-01.casap2p.online/adelson2022/adelson2022/58265
 
 
@@ -941,19 +942,19 @@ http://viutudo.com:80/fabricio2022/2022fabricio/2821
 http://viutudo.com:80/fabricio2022/2022fabricio/330
 
 
-#EXTINF:-1,SPORTV - OPCAO 5 - 3
+#EXTINF:-1,SPORTV 1 - OPCAO 5 - 3
 http://viutudo.com:80/fabricio2022/2022fabricio/177
 
 
-#EXTINF:-1,SPORTV - OPCAO 5 - 2
+#EXTINF:-1,SPORTV 1 - OPCAO 5 - 2
 http://viutudo.com:80/fabricio2022/2022fabricio/10054368
 
 
-#EXTINF:-1,SPORTV - OPCAO 5
+#EXTINF:-1,SPORTV 1 - OPCAO 5
 http://viutudo.com:80/fabricio2022/2022fabricio/4899
 
 
-#EXTINF:-1,SPORTV - OPCAO 5 - 3
+#EXTINF:-1,SPORTV 1 - OPCAO 5 - 3
 http://viutudo.com:80/fabricio2022/2022fabricio/16847
 
 
@@ -993,15 +994,15 @@ http://viutudo.com:80/fabricio2022/2022fabricio/10054808
 http://viutudo.com:80/fabricio2022/2022fabricio/17143
 
 
-#EXTINF:-1,ESPN - OPCAO 5
+#EXTINF:-1,ESPN 1 - OPCAO 5
 http://viutudo.com:80/fabricio2022/2022fabricio/151
 
 
-#EXTINF:-1,ESPN - OPCAO 5 - 2
+#EXTINF:-1,ESPN 1 - OPCAO 5 - 2
 http://viutudo.com:80/fabricio2022/2022fabricio/10054827
 
 
-#EXTINF:-1,ESPN - OPCAO 5 - 3
+#EXTINF:-1,ESPN 1 - OPCAO 5 - 3
 http://viutudo.com:80/fabricio2022/2022fabricio/2843
 
 
@@ -1069,23 +1070,23 @@ http://viutudo.com:80/fabricio2022/2022fabricio/10055011
 http://viutudo.com:80/fabricio2022/2022fabricio/17138
 
 
-#EXTINF:-1,PREMIERE CLUBES - OPCAO 5
+#EXTINF:-1,PREMIERE 1 - OPCAO 5
 http://viutudo.com:80/fabricio2022/2022fabricio/200
 
 
-#EXTINF:-1,PREMIERE CLUBES - OPCAO 5 - 4
+#EXTINF:-1,PREMIERE 1 - OPCAO 5 - 4
 http://viutudo.com:80/fabricio2022/2022fabricio/10054468
 
 
-#EXTINF:-1,PREMIERE CLUBES - OPCAO 5 - 3
+#EXTINF:-1,PREMIERE 1 - OPCAO 5 - 3
 http://viutudo.com:80/fabricio2022/2022fabricio/4905
 
 
-#EXTINF:-1,PREMIERE CLUBES - OPCAO 5 - 5
+#EXTINF:-1,PREMIERE 1 - OPCAO 5 - 5
 http://viutudo.com:80/fabricio2022/2022fabricio/17107
 
 
-#EXTINF:-1,PREMIERE CLUBES - OPCAO 5 - 6
+#EXTINF:-1,PREMIERE 1 - OPCAO 5 - 6
 http://viutudo.com:80/fabricio2022/2022fabricio/10055200
 
 
@@ -1722,11 +1723,11 @@ http://sv1.casaplayer.com.br:8080/dayana/102030/58270
 http://sv1.casaplayer.com.br:8080/dayana/102030/58274
 
 
-#EXTINF:-1,SPORTV - OPCAO 6
+#EXTINF:-1,SPORTV 1 - OPCAO 6
 http://sv1.casaplayer.com.br:8080/dayana/102030/46723
 
 
-#EXTINF:-1,SPORTV - OPCAO 6 (S1) 
+#EXTINF:-1,SPORTV 1 - OPCAO 6 (S1) 
 http://sv1.casaplayer.com.br:8080/dayana/102030/58265
 
 
@@ -2013,11 +2014,11 @@ http://load.casaplayer.com.br:80/dora123/dora123/58270
 http://load.casaplayer.com.br:80/dora123/dora123/58274
 
 
-#EXTINF:-1,SPORTV - OPCAO 7
+#EXTINF:-1,SPORTV 1 - OPCAO 7
 http://load.casaplayer.com.br:80/dora123/dora123/46723
 
 
-#EXTINF:-1,SPORTV - OPCAO 7 (S1) 
+#EXTINF:-1,SPORTV 1 - OPCAO 7 (S1) 
 http://load.casaplayer.com.br:80/dora123/dora123/58265
 
 
