@@ -1,24 +1,8 @@
-#EXTM3U
-#EXTINF:-1,ANIMAL PLANET - PRINCIPAL
-https://live.xvideosporn.me/p2p/animalplanet/chunks.m3u8
-
-#EXTINF:-1,BBB - PRINCIPAL
-https://live.xvideosporn.me/p2p/bbb1/chunks.m3u8
-
-#EXTINF:-1,CNN BRASIL - PRINCIPAL
-https://live.xvideosporn.me/p2p/cnnbr/chunks.m3u8
-
 #EXTINF:-1,CARTOON NETWORK - PRINCIPAL
 https://live.xvideosporn.me/p2p/cartoon/chunks.m3u8
 
 #EXTINF:-1,COMEDY CENTRAL - PRINCIPAL
 https://live.xvideosporn.me/p2p/comedycentral/chunks.m3u8
-
-#EXTINF:-1,DISCOVERY KIDS - PRINCIPAL
-https://live.xvideosporn.me/p2p/discoverykids/chunks.m3u8
-
-#EXTINF:-1,DISCOVERY TURBO - PRINCIPAL
-https://live.xvideosporn.me/p2p/discoveryturbo/chunks.m3u8
 
 #EXTINF:-1,DISNEY CHANNEL - PRINCIPAL
 https://live.xvideosporn.me/p2p/disneychannel/chunks.m3u8
@@ -41,9 +25,6 @@ https://live.xvideosporn.me/p2p/espnextra/chunks.m3u8
 #EXTINF:-1,FOX SPORTS 2 - PRINCIPAL
 https://live.xvideosporn.me/p2p/foxsport2/chunks.m3u8
 
-#EXTINF:-1,GLOBO NEWS - PRINCIPAL
-https://live.xvideosporn.me/p2p/globonews/chunks.m3u8
-
 #EXTINF:-1,GLOOB - PRINCIPAL
 https://live.xvideosporn.me/p2p/gloob/chunks.m3u8
 
@@ -62,14 +43,8 @@ https://live.xvideosporn.me/p2p/hboplus/chunks.m3u8
 #EXTINF:-1,HBO SIGNATURE - PRINCIPAL
 https://live.xvideosporn.me/p2p/hbosignature/chunks.m3u8
 
-#EXTINF:-1,HISTORY - PRINCIPAL
-https://live.xvideosporn.me/p2p/history/chunks.m3u8
-
 #EXTINF:-1,MEGAPIX - PRINCIPAL
 https://live.xvideosporn.me/p2p/megapix/chunks.m3u8
-
-#EXTINF:-1,MULTISHOW - PRINCIPAL
-https://live.xvideosporn.me/p2p/multishow/chunks.m3u8
 
 #EXTINF:-1,NICKELODEON - PRINCIPAL
 https://live.xvideosporn.me/p2p/nickelodeon/chunks.m3u8
@@ -138,30 +113,6 @@ https://live.xvideosporn.me/p2p/tntseries/chunks.m3u8
 https://live.xvideosporn.me/p2p/tooncast/chunks.m3u8
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,ANIMAL PLANET - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368215
-
-
-#EXTINF:-1,BAND CAMPINAS - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1369251
-
-
-#EXTINF:-1,BAND - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368227
-
-
 #EXTINF:-1,BAND* - OPCAO 2
 #EXTINF:-1,BAND SPORTS - OPCAO 2
 http://cdn1.mg99.xyz/graca123/123graca/1368233
@@ -170,44 +121,8 @@ http://cdn1.mg99.xyz/graca123/123graca/1368233
 http://cdn1.mg99.xyz/graca123/123graca/1368245
 
 
-#EXTINF:-1,CNN BRASIL - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368251
-
-
 #EXTINF:-1,COMEDY CENTRAL - OPCAO 2
 http://cdn1.mg99.xyz/graca123/123graca/1368262
-
-
-#EXTINF:-1,DISCOVERY CHANNEL - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368275
-
-
-#EXTINF:-1,DISCOVERY HOME & HEALTH - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368278
-
-
-#EXTINF:-1,DISCOVERY ID - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368281
-
-
-#EXTINF:-1,DISCOVERY KIDS - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368284
-
-
-#EXTINF:-1,DISCOVERY SCIENCE - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368287
-
-
-#EXTINF:-1,DISCOVERY THEATHER - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368290
-
-
-#EXTINF:-1,DISCOVERY TURBO - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368293
-
-
-#EXTINF:-1,DISCOVERY WORLD - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368296
 
 
 #EXTINF:-1,DISNEY CHANNEL - OPCAO 2
@@ -282,10 +197,6 @@ http://cdn1.mg99.xyz/graca123/123graca/1368453
 http://cdn1.mg99.xyz/graca123/123graca/1368471
 
 
-#EXTINF:-1,MULTISHOW - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368477
-
-
 #EXTINF:-1,NICK - OPCAO 2
 http://cdn1.mg99.xyz/graca123/123graca/1368492
 
@@ -353,51 +264,6 @@ http://cdn1.mg99.xyz/graca123/123graca/1368610
 http://cdn1.mg99.xyz/graca123/123graca/1368616
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,ANIMAL PLANET - OPCAO 3
-http://cms-eu-01.casap2p.online/adelson2022/adelson2022/3433
-
-
-#EXTINF:-1,BAND CAMPINAS - OPCAO 3
-http://cms-eu-01.casap2p.online/adelson2022/adelson2022/57686
-
-
-#EXTINF:-1,BAND CURITIBA - OPCAO 3
-http://cms-eu-01.casap2p.online/adelson2022/adelson2022/57687
-
-
-#EXTINF:-1,BAND CURITIBA - OPCAO 3
-http://cms-eu-01.casap2p.online/adelson2022/adelson2022/57688
-
-
-#EXTINF:-1,BAND MINAS - OPCAO 3
-http://cms-eu-01.casap2p.online/adelson2022/adelson2022/58443
-
-
-#EXTINF:-1,BAND NEWS - OPCAO 3
-http://cms-eu-01.casap2p.online/adelson2022/adelson2022/3443
-
-
-#EXTINF:-1,Band RJ - OPCAO 3
-http://cms-eu-01.casap2p.online/adelson2022/adelson2022/57694
-
-
 #EXTINF:-1,BAND SP - OPCAO 3
 http://cms-eu-01.casap2p.online/adelson2022/adelson2022/3448
 
@@ -412,38 +278,6 @@ http://cms-eu-01.casap2p.online/adelson2022/adelson2022/3694
 
 #EXTINF:-1,COMEDY CENTRAL - OPCAO 3
 http://cms-eu-01.casap2p.online/adelson2022/adelson2022/3685
-
-
-#EXTINF:-1,DISCOVERY CHANNEL - OPCAO 3
-http://cms-eu-01.casap2p.online/adelson2022/adelson2022/3682
-
-
-#EXTINF:-1,DISCOVERY HOME & HEALTH - OPCAO 3
-http://cms-eu-01.casap2p.online/adelson2022/adelson2022/3781
-
-
-#EXTINF:-1,DISCOVERY KIDS - OPCAO 3
-http://cms-eu-01.casap2p.online/adelson2022/adelson2022/3677
-
-
-#EXTINF:-1,DISCOVERY SCIENCE - OPCAO 3
-http://cms-eu-01.casap2p.online/adelson2022/adelson2022/3676
-
-
-#EXTINF:-1,DISCOVERY THEATER - OPCAO 3
-http://cms-eu-01.casap2p.online/adelson2022/adelson2022/6800
-
-
-#EXTINF:-1,DISCOVERY TLC - OPCAO 3
-http://cms-eu-01.casap2p.online/adelson2022/adelson2022/3782
-
-
-#EXTINF:-1,DISCOVERY TURBO - OPCAO 3
-http://cms-eu-01.casap2p.online/adelson2022/adelson2022/3673
-
-
-#EXTINF:-1,DISCOVERY WORLD - OPCAO 3
-http://cms-eu-01.casap2p.online/adelson2022/adelson2022/3672
 
 
 #EXTINF:-1,DISNEY CHANNEL - OPCAO 3
@@ -468,10 +302,6 @@ http://cms-eu-01.casap2p.online/adelson2022/adelson2022/46732
 
 #EXTINF:-1,FOX SPORTS 2 - OPCAO 3
 http://cms-eu-01.casap2p.online/adelson2022/adelson2022/3640
-
-
-#EXTINF:-1,GLOBO NEWS - OPCAO 3
-http://cms-eu-01.casap2p.online/adelson2022/adelson2022/3743
 
 
 #EXTINF:-1,GLOBO SP - OPCAO 3
@@ -554,20 +384,8 @@ http://cms-eu-01.casap2p.online/adelson2022/adelson2022/58021
 http://cms-eu-01.casap2p.online/adelson2022/adelson2022/18846
 
 
-#EXTINF:-1,HISTORY CHANNEL - OPCAO 3
-http://cms-eu-01.casap2p.online/adelson2022/adelson2022/3790
-
-
-#EXTINF:-1,ID - INVESTIGACAO DISCOVERY - OPCAO 3
-http://cms-eu-01.casap2p.online/adelson2022/adelson2022/3791
-
-
 #EXTINF:-1,MEGAPIX - OPCAO 3
 http://cms-eu-01.casap2p.online/adelson2022/adelson2022/6531
-
-
-#EXTINF:-1,MULTISHOW - OPCAO 3
-http://cms-eu-01.casap2p.online/adelson2022/adelson2022/3578
 
 
 #EXTINF:-1,NICK JR - OPCAO 3
@@ -754,21 +572,6 @@ http://cms-eu-01.casap2p.online/adelson2022/adelson2022/71788
 http://cms-eu-01.casap2p.online/adelson2022/adelson2022/73167
 
 
-
-
-
-
-
-
-
-#EXTINF:-1,ANIMAL PLANET - OPCAO 4
-http://c2n.one/junior2022/2022junior/208856
-
-
-#EXTINF:-1,BAND BAHIA - OPCAO 4
-http://c2n.one/junior2022/2022junior/412426
-
-
 #EXTINF:-1,BAND SPORTS - OPCAO 4
 http://c2n.one/junior2022/2022junior/208871
 
@@ -781,44 +584,8 @@ http://c2n.one/junior2022/2022junior/208889
 http://c2n.one/junior2022/2022junior/208877
 
 
-#EXTINF:-1,CNN BRASIL - OPCAO 4
-http://c2n.one/junior2022/2022junior/39937
-
-
 #EXTINF:-1,COMEDY CENTRAL - OPCAO 4
 http://c2n.one/junior2022/2022junior/208901
-
-
-#EXTINF:-1,DISCOVERY CHANNEL - OPCAO 4
-http://c2n.one/junior2022/2022junior/208910
-
-
-#EXTINF:-1,DISCOVERY H&amp;H - OPCAO 4
-http://c2n.one/junior2022/2022junior/208913
-
-
-#EXTINF:-1,DISCOVERY KIDS - OPCAO 4
-http://c2n.one/junior2022/2022junior/208916
-
-
-#EXTINF:-1,DISCOVERY SCIENCE - OPCAO 4
-http://c2n.one/junior2022/2022junior/208919
-
-
-#EXTINF:-1,DISCOVERY THEATER - OPCAO 4
-http://c2n.one/junior2022/2022junior/208922
-
-
-#EXTINF:-1,DISCOVERY TLC - OPCAO 4
-http://c2n.one/junior2022/2022junior/209153
-
-
-#EXTINF:-1,DISCOVERY TURBO - OPCAO 4
-http://c2n.one/junior2022/2022junior/208925
-
-
-#EXTINF:-1,DISCOVERY WORLD - OPCAO 4
-http://c2n.one/junior2022/2022junior/208928
 
 
 #EXTINF:-1,DISNEY CHANNEL - OPCAO 4
@@ -961,14 +728,6 @@ http://c2n.one/junior2022/2022junior/209003
 
 #EXTINF:-1,HBO XTREME - OPCAO 4
 http://c2n.one/junior2022/2022junior/209006
-
-
-#EXTINF:-1,HISTORY CHANNEL - OPCAO 4
-http://c2n.one/junior2022/2022junior/209015
-
-
-#EXTINF:-1,INVESTIGATION DISCOVERY - OPCAO 4
-http://c2n.one/junior2022/2022junior/209018
 
 
 #EXTINF:-1,MEGAPIX - OPCAO 4
@@ -1176,9 +935,6 @@ http://c2n.one/junior2022/2022junior/57196
 
 #EXTINF:-1,GLOBO SP - OPCAO 5
 http://viutudo.com:80/fabricio2022/2022fabricio/2821
-
-#EXTINF:-1,BAND - OPCAO 5
-http://viutudo.com:80/fabricio2022/2022fabricio/9032
 
 
 #EXTINF:-1,SBT - OPCAO 5
@@ -1713,106 +1469,6 @@ http://viutudo.com:80/fabricio2022/2022fabricio/9535
 http://viutudo.com:80/fabricio2022/2022fabricio/10055121
 
 
-#EXTINF:-1,DISCOVERY TURBO - OPCAO 5
-http://viutudo.com:80/fabricio2022/2022fabricio/126
-
-
-#EXTINF:-1,DISCOVERY TURBO - OPCAO 5 - 2
-http://viutudo.com:80/fabricio2022/2022fabricio/10054857
-
-
-#EXTINF:-1,DISCOVERY TURBO - OPCAO 5 - 3
-http://viutudo.com:80/fabricio2022/2022fabricio/17134
-
-
-#EXTINF:-1,MULTISHOW - OPCAO 5
-http://viutudo.com:80/fabricio2022/2022fabricio/93
-
-
-#EXTINF:-1,MULTISHOW - OPCAO 5 - 2
-http://viutudo.com:80/fabricio2022/2022fabricio/10054520
-
-
-#EXTINF:-1,MULTISHOW - OPCAO 5 - 3
-http://viutudo.com:80/fabricio2022/2022fabricio/17116
-
-
-#EXTINF:-1,ANIMAL PLANET - OPCAO 5
-http://viutudo.com:80/fabricio2022/2022fabricio/116
-
-
-#EXTINF:-1,ANIMAL PLANET - OPCAO 5 - 2
-http://viutudo.com:80/fabricio2022/2022fabricio/10055037
-
-
-#EXTINF:-1,ANIMAL PLANET - OPCAO 5 - 3
-http://viutudo.com:80/fabricio2022/2022fabricio/5825
-
-
-#EXTINF:-1,ID - INVESTIGACAO DISCOVERY - OPCAO 5
-http://viutudo.com:80/fabricio2022/2022fabricio/109
-
-
-#EXTINF:-1,ID - INVESTIGACAO DISCOVERY - OPCAO 5 - 3
-http://viutudo.com:80/fabricio2022/2022fabricio/17118
-
-
-#EXTINF:-1,DISCOVERY CHANNEL - OPCAO 5
-http://viutudo.com:80/fabricio2022/2022fabricio/133
-
-
-#EXTINF:-1,DISCOVERY CHANNEL - OPCAO 5 - 2
-http://viutudo.com:80/fabricio2022/2022fabricio/10054873
-
-
-#EXTINF:-1,DISCOVERY SCIENCE - OPCAO 5
-http://viutudo.com:80/fabricio2022/2022fabricio/5476
-
-
-#EXTINF:-1,DISCOVERY SCIENCE - OPCAO 5 - 2
-http://viutudo.com:80/fabricio2022/2022fabricio/10054865
-
-
-#EXTINF:-1,DISCOVERY SCIENCE - OPCAO 5 - 3
-http://viutudo.com:80/fabricio2022/2022fabricio/17166
-
-
-#EXTINF:-1,HISTORY - OPCAO 5
-http://viutudo.com:80/fabricio2022/2022fabricio/112
-
-
-#EXTINF:-1,HISTORY - OPCAO 5 - 2
-http://viutudo.com:80/fabricio2022/2022fabricio/10054555
-
-
-#EXTINF:-1,HISTORY - OPCAO 5 - 3
-http://viutudo.com:80/fabricio2022/2022fabricio/17119
-
-
-#EXTINF:-1,BAND NEWS - OPCAO 5
-http://viutudo.com:80/fabricio2022/2022fabricio/5843
-
-
-#EXTINF:-1,BAND NEWS - OPCAO 5 - 2
-http://viutudo.com:80/fabricio2022/2022fabricio/10055017
-
-
-#EXTINF:-1,BAND NEWS - OPCAO 5 - 3
-http://viutudo.com:80/fabricio2022/2022fabricio/10048417
-
-
-#EXTINF:-1,CNN BRASIL - OPCAO 5
-http://viutudo.com:80/fabricio2022/2022fabricio/10027034
-
-
-#EXTINF:-1,CNN BRASIL - OPCAO 5 - 2
-http://viutudo.com:80/fabricio2022/2022fabricio/10054921
-
-
-#EXTINF:-1,CNN BRASIL - OPCAO 5 - 3
-http://viutudo.com:80/fabricio2022/2022fabricio/10041070
-
-
 #EXTINF:-1,CARTOON NETWORK - OPCAO 5
 http://viutudo.com:80/fabricio2022/2022fabricio/63
 
@@ -1823,18 +1479,6 @@ http://viutudo.com:80/fabricio2022/2022fabricio/10054929
 
 #EXTINF:-1,CARTOON NETWORK - OPCAO 5 - 3
 http://viutudo.com:80/fabricio2022/2022fabricio/17067
-
-
-#EXTINF:-1,DISCOVERY KIDS - OPCAO 5
-http://viutudo.com:80/fabricio2022/2022fabricio/4826
-
-
-#EXTINF:-1,DISCOVERY KIDS - OPCAO 5 - 2
-http://viutudo.com:80/fabricio2022/2022fabricio/10054869
-
-
-#EXTINF:-1,DISCOVERY KIDS - OPCAO 5 - 3
-http://viutudo.com:80/fabricio2022/2022fabricio/17063
 
 
 #EXTINF:-1,DISNEY CHANNEL - OPCAO 5
@@ -1900,16 +1544,6 @@ http://viutudo.com:80/fabricio2022/2022fabricio/17157
 #EXTINF:-1,TOONCAST - OPCAO 5
 http://viutudo.com:80/fabricio2022/2022fabricio/10027051
 
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1,BAND SP - OPCAO 6
 http://sv1.casaplayer.com.br:8080/dayana/102030/3448
 
@@ -1923,38 +1557,6 @@ http://sv1.casaplayer.com.br:8080/dayana/102030/3694
 
 #EXTINF:-1,COMEDY CENTRAL - OPCAO 6
 http://sv1.casaplayer.com.br:8080/dayana/102030/3685
-
-
-#EXTINF:-1,DISCOVERY CHANNEL - OPCAO 6
-http://sv1.casaplayer.com.br:8080/dayana/102030/3682
-
-
-#EXTINF:-1,DISCOVERY HOME & HEALTH - OPCAO 6
-http://sv1.casaplayer.com.br:8080/dayana/102030/3781
-
-
-#EXTINF:-1,DISCOVERY KIDS - OPCAO 6
-http://sv1.casaplayer.com.br:8080/dayana/102030/3677
-
-
-#EXTINF:-1,DISCOVERY SCIENCE - OPCAO 6
-http://sv1.casaplayer.com.br:8080/dayana/102030/3676
-
-
-#EXTINF:-1,DISCOVERY THEATER - OPCAO 6
-http://sv1.casaplayer.com.br:8080/dayana/102030/6800
-
-
-#EXTINF:-1,DISCOVERY TLC - OPCAO 6
-http://sv1.casaplayer.com.br:8080/dayana/102030/3782
-
-
-#EXTINF:-1,DISCOVERY TURBO - OPCAO 6
-http://sv1.casaplayer.com.br:8080/dayana/102030/3673
-
-
-#EXTINF:-1,DISCOVERY WORLD - OPCAO 6
-http://sv1.casaplayer.com.br:8080/dayana/102030/3672
 
 
 #EXTINF:-1,DISNEY CHANNEL - OPCAO 6
@@ -2056,20 +1658,8 @@ http://sv1.casaplayer.com.br:8080/dayana/102030/58021
 http://sv1.casaplayer.com.br:8080/dayana/102030/18846
 
 
-#EXTINF:-1,HISTORY CHANNEL - OPCAO 6
-http://sv1.casaplayer.com.br:8080/dayana/102030/3790
-
-
-#EXTINF:-1,ID - INVESTIGACAO DISCOVERY - OPCAO 6
-http://sv1.casaplayer.com.br:8080/dayana/102030/3791
-
-
 #EXTINF:-1,MEGAPIX - OPCAO 6
 http://sv1.casaplayer.com.br:8080/dayana/102030/6531
-
-
-#EXTINF:-1,MULTISHOW - OPCAO 6
-http://sv1.casaplayer.com.br:8080/dayana/102030/3578
 
 
 #EXTINF:-1,NICK JR - OPCAO 6
@@ -2236,14 +1826,6 @@ http://sv1.casaplayer.com.br:8080/dayana/102030/71788
 http://sv1.casaplayer.com.br:8080/dayana/102030/73167
 
 
-
-
-
-
-
-
-
-
 #EXTINF:-1,BAND SPORTS - OPCAO 7
 http://load.casaplayer.com.br:80/dora123/dora123/3445
 
@@ -2254,38 +1836,6 @@ http://load.casaplayer.com.br:80/dora123/dora123/3694
 
 #EXTINF:-1,COMEDY CENTRAL - OPCAO 7
 http://load.casaplayer.com.br:80/dora123/dora123/3685
-
-
-#EXTINF:-1,DISCOVERY CHANNEL - OPCAO 7
-http://load.casaplayer.com.br:80/dora123/dora123/3682
-
-
-#EXTINF:-1,DISCOVERY HOME & HEALTH - OPCAO 7
-http://load.casaplayer.com.br:80/dora123/dora123/3781
-
-
-#EXTINF:-1,DISCOVERY KIDS - OPCAO 7
-http://load.casaplayer.com.br:80/dora123/dora123/3677
-
-
-#EXTINF:-1,DISCOVERY SCIENCE - OPCAO 7
-http://load.casaplayer.com.br:80/dora123/dora123/3676
-
-
-#EXTINF:-1,DISCOVERY THEATER - OPCAO 7
-http://load.casaplayer.com.br:80/dora123/dora123/6800
-
-
-#EXTINF:-1,DISCOVERY TLC - OPCAO 7
-http://load.casaplayer.com.br:80/dora123/dora123/3782
-
-
-#EXTINF:-1,DISCOVERY TURBO - OPCAO 7
-http://load.casaplayer.com.br:80/dora123/dora123/3673
-
-
-#EXTINF:-1,DISCOVERY WORLD - OPCAO 7
-http://load.casaplayer.com.br:80/dora123/dora123/3672
 
 
 #EXTINF:-1,DISNEY CHANNEL - OPCAO 7
@@ -2383,20 +1933,8 @@ http://load.casaplayer.com.br:80/dora123/dora123/58021
 http://load.casaplayer.com.br:80/dora123/dora123/18846
 
 
-#EXTINF:-1,HISTORY CHANNEL - OPCAO 7
-http://load.casaplayer.com.br:80/dora123/dora123/3790
-
-
-#EXTINF:-1,ID - INVESTIGACAO DISCOVERY - OPCAO 7
-http://load.casaplayer.com.br:80/dora123/dora123/3791
-
-
 #EXTINF:-1,MEGAPIX - OPCAO 7
 http://load.casaplayer.com.br:80/dora123/dora123/6531
-
-
-#EXTINF:-1,MULTISHOW - OPCAO 7
-http://load.casaplayer.com.br:80/dora123/dora123/3578
 
 
 #EXTINF:-1,NICK JR - OPCAO 7
