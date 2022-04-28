@@ -219,7 +219,7 @@ http://cdn1.mg99.xyz/graca123/123graca/1368610
 http://cdn1.mg99.xyz/graca123/123graca/1368616
 
 
-#EXTINF:-1,BAND SP - OPCAO 3
+#EXTINF:-1,BAND - OPCAO 3
 http://cms-eu-01.casap2p.online/adelson2022/adelson2022/3448
 
 
@@ -338,9 +338,6 @@ http://cms-eu-01.casap2p.online/adelson2022/adelson2022/3523
 #EXTINF:-1,REDE TV - OPCAO 3
 http://cms-eu-01.casap2p.online/adelson2022/adelson2022/58205
 
-
-#EXTINF:-1,SBT SP - OPCAO 3
-http://cms-eu-01.casap2p.online/adelson2022/adelson2022/3513
 
 
 #EXTINF:-1,SPACE - OPCAO 3
@@ -1101,7 +1098,7 @@ http://viutudo.com:80/fabricio2022/2022fabricio/17157
 #EXTINF:-1,TOONCAST - OPCAO 5
 http://viutudo.com:80/fabricio2022/2022fabricio/10027051
 
-#EXTINF:-1,BAND SP - OPCAO 6
+#EXTINF:-1,BAND - OPCAO 6
 http://sv1.casaplayer.com.br:8080/dayana/102030/3448
 
 
@@ -1207,9 +1204,6 @@ http://sv1.casaplayer.com.br:8080/dayana/102030/19381
 http://sv1.casaplayer.com.br:8080/dayana/102030/58136
 
 
-#EXTINF:-1,SBT SP - OPCAO 6
-http://sv1.casaplayer.com.br:8080/dayana/102030/3513
-
 
 #EXTINF:-1,SPACE - OPCAO 6
 http://sv1.casaplayer.com.br:8080/dayana/102030/3510
@@ -1290,7 +1284,7 @@ http://sv1.casaplayer.com.br:8080/dayana/102030/71788
 #EXTINF:-1,HBO MAX 4 - OPCAO 6
 http://sv1.casaplayer.com.br:8080/dayana/102030/73167
 
-#EXTINF:-1,BAND SP - OPCAO 7 
+#EXTINF:-1,BAND - OPCAO 7 
 http://efv.me:80/junior/102030/52478
 
 
@@ -1583,9 +1577,6 @@ http://load.casaplayer.com.br:80/dora123/dora123/3523
 http://load.casaplayer.com.br:80/dora123/dora123/58205
 
 
-#EXTINF:-1,SBT SP - OPCAO 8
-http://load.casaplayer.com.br:80/dora123/dora123/3513
-
 
 #EXTINF:-1,SPACE - OPCAO 8
 http://load.casaplayer.com.br:80/dora123/dora123/3510
@@ -1670,3 +1661,44 @@ http://load.casaplayer.com.br:80/dora123/dora123/71788
 #EXTINF:-1,HBO MAX 4 - OPCAO 8
 http://load.casaplayer.com.br:80/dora123/dora123/73167
 
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,BAND - OPCAO 2
+http://cdn1.mg99.xyz/graca123/123graca/1368227
+
+
+#EXTINF:-1,BAND - OPCAO 8
+http://load.casaplayer.com.br:80/dora123/dora123/57686
+
+
+#EXTINF:-1,BAND - OPCAO 4
+http://c2n.one/junior2022/2022junior/412426
+
+
+#EXTINF:-1,BAND - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/9032
+
+#EXTINF:-1,SBT - OPCAO 3
+http://sv1.casaplayer.com.br:8080/dayana/102030/3513
+
+#EXTINF:-1,SBT - OPCAO 4
+http://c2n.one/junior2022/2022junior/396717
+
+#EXTINF:-1,SBT - OPCAO 2
+http://cdn1.mg99.xyz/graca123/123graca/1368554
+
+#EXTINF:-1,SBT - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/330
+
+#EXTINF:-1,SBT - OPCAO 7
+http://efv.me:80/junior/102030/13179
+
+#EXTINF:-1,SBT - OPCAO 8
+http://load.casaplayer.com.br:80/dora123/dora123/58233
