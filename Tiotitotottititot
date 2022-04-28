@@ -47,9 +47,6 @@ https://live.xvideosporn.me/p2p/globonews/chunks.m3u8
 #EXTINF:-1,GLOOB - PRINCIPAL
 https://live.xvideosporn.me/p2p/gloob/chunks.m3u8
 
-#EXTINF:-1,H2 - PRINCIPAL
-https://live.xvideosporn.me/p2p/h2/chunks.m3u8
-
 #EXTINF:-1,HBO - PRINCIPAL
 https://live.xvideosporn.me/p2p/hbo/chunks.m3u8
 
@@ -146,8 +143,11 @@ https://live.xvideosporn.me/p2p/tooncast/chunks.m3u8
 
 
 
-#EXTINF:-1,A&E - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368212
+
+
+
+
+
 
 
 #EXTINF:-1,ANIMAL PLANET - OPCAO 2
@@ -166,63 +166,16 @@ http://cdn1.mg99.xyz/graca123/123graca/1368227
 #EXTINF:-1,BAND SPORTS - OPCAO 2
 http://cdn1.mg99.xyz/graca123/123graca/1368233
 
-
-#EXTINF:-1,BIS - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368236
-
-
-#EXTINF:-1,BOOMERANG - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368239
-
-
-#EXTINF:-1,CA NBA TV CANADA - OPCAO 2
-
 #EXTINF:-1,CARTOON NETWORK - OPCAO 2
 http://cdn1.mg99.xyz/graca123/123graca/1368245
-
-
-#EXTINF:-1,CHEF TV - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368678
-
-
-#EXTINF:-1,CINECANAL - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368351
-
-
-#EXTINF:-1,CINEMAX - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368248
 
 
 #EXTINF:-1,CNN BRASIL - OPCAO 2
 http://cdn1.mg99.xyz/graca123/123graca/1368251
 
 
-#EXTINF:-1,CNN ESPANHOL - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368253
-
-
-#EXTINF:-1,CNN INTERNACIONAL - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368256
-
-
-#EXTINF:-1,COMBATE - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368259
-
-
 #EXTINF:-1,COMEDY CENTRAL - OPCAO 2
 http://cdn1.mg99.xyz/graca123/123graca/1368262
-
-
-#EXTINF:-1,COPA CATARINENSE 2 - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368266
-
-
-#EXTINF:-1,COPA DO NORDESTE 3 - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368661
-
-
-#EXTINF:-1,CURTA! - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368270
 
 
 #EXTINF:-1,DISCOVERY CHANNEL - OPCAO 2
@@ -261,34 +214,6 @@ http://cdn1.mg99.xyz/graca123/123graca/1368296
 http://cdn1.mg99.xyz/graca123/123graca/1368299
 
 
-#EXTINF:-1,E! - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368308
-
-
-#EXTINF:-1,EI PLUS 1 - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368335
-
-
-#EXTINF:-1,EI PLUS 2 - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368311
-
-
-#EXTINF:-1,EI PLUS 3 - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368313
-
-
-#EXTINF:-1,EIPLUS 4 * - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368315
-
-
-#EXTINF:-1,EIPLUS 5 * - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368317
-
-
-#EXTINF:-1,EIPLUS 6 * - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368319
-
-
 #EXTINF:-1,ESPN 1 - OPCAO 2
 http://cdn1.mg99.xyz/graca123/123graca/1368324
 
@@ -309,32 +234,8 @@ http://cdn1.mg99.xyz/graca123/123graca/1368357
 http://cdn1.mg99.xyz/graca123/123graca/1368327
 
 
-#EXTINF:-1,ESPORTE INTERATIVO * - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368334
-
-
-#EXTINF:-1,FISH TV - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368337
-
-
-#EXTINF:-1,FOOD NETWORK - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368340
-
-
-#EXTINF:-1,FOX NEWS - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368348
-
-
 #EXTINF:-1,FOX SPORTS 2 - OPCAO 2
 http://cdn1.mg99.xyz/graca123/123graca/1368359
-
-
-#EXTINF:-1,GLOBO TV VERDES MARES - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368415
-
-
-#EXTINF:-1,GLOBOTV ANHANGUERA - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368418
 
 
 #EXTINF:-1,GLOOB - OPCAO 2
@@ -343,14 +244,6 @@ http://cdn1.mg99.xyz/graca123/123graca/1368420
 
 #EXTINF:-1,GLOOBINHO - OPCAO 2
 http://cdn1.mg99.xyz/graca123/123graca/1368423
-
-
-#EXTINF:-1,GNT - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368426
-
-
-#EXTINF:-1,H2 - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368429
 
 
 #EXTINF:-1,HBO 1 - OPCAO 2
@@ -385,56 +278,12 @@ http://cdn1.mg99.xyz/graca123/123graca/1368450
 http://cdn1.mg99.xyz/graca123/123graca/1368453
 
 
-#EXTINF:-1,HGTV - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368456
-
-
-#EXTINF:-1,I SAT - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368459
-
-
-#EXTINF:-1,JOVEN PAN NEWS - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368354
-
-
-#EXTINF:-1,LIFETIME - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368465
-
-
-#EXTINF:-1,LIGA FUTSAL 2 - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368687
-
-
-#EXTINF:-1,LIGA FUTSAL - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368690
-
-
-#EXTINF:-1,MAIS GLOBOSAT - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368468
-
-
 #EXTINF:-1,MEGAPIX - OPCAO 2
 http://cdn1.mg99.xyz/graca123/123graca/1368471
 
 
-#EXTINF:-1,MTV - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368474
-
-
 #EXTINF:-1,MULTISHOW - OPCAO 2
 http://cdn1.mg99.xyz/graca123/123graca/1368477
-
-
-#EXTINF:-1,MUSIC BOX BRASIL - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368480
-
-
-#EXTINF:-1,NATGEO - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368483
-
-
-#EXTINF:-1,NATGEO WILD - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368489
 
 
 #EXTINF:-1,NICK - OPCAO 2
@@ -443,18 +292,6 @@ http://cdn1.mg99.xyz/graca123/123graca/1368492
 
 #EXTINF:-1,NICK JR - OPCAO 2
 http://cdn1.mg99.xyz/graca123/123graca/1368494
-
-
-#EXTINF:-1,OFF - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368500
-
-
-#EXTINF:-1,PARAMOUNT CHANNEL - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368503
-
-
-#EXTINF:-1,PLAY TV - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368507
 
 
 #EXTINF:-1,PREMIERE 1 - OPCAO 2
@@ -485,26 +322,8 @@ http://cdn1.mg99.xyz/graca123/123graca/1368522
 http://cdn1.mg99.xyz/graca123/123graca/1368525
 
 
-#EXTINF:-1,PRIME BOX BRASIL - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368531
-
-
-#EXTINF:-1,PT NBA - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1369104
-
-
-#EXTINF:-1,PT: EUROSPORT - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/902003
-
-
-#EXTINF:-1,RECORD BA - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368533
-
-
 #EXTINF:-1,SBT - OPCAO 2
 http://cdn1.mg99.xyz/graca123/123graca/1368554
-
-
 
 #EXTINF:-1,SPACE - OPCAO 2
 http://cdn1.mg99.xyz/graca123/123graca/1368562
@@ -526,47 +345,6 @@ http://cdn1.mg99.xyz/graca123/123graca/1368568
 http://cdn1.mg99.xyz/graca123/123graca/1368343
 
 
-
-#EXTINF:-1,STUDIO UNIVERSAL - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368574
-
-
-#EXTINF:-1,SYFY - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368577
-
-
-#EXTINF:-1,TBS - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368580
-
-
-#EXTINF:-1,TC ACTION - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368583
-
-
-#EXTINF:-1,TC CULT - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368586
-
-
-#EXTINF:-1,TC FUN - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368589
-
-
-#EXTINF:-1,TC PIPOCA - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368592
-
-
-#EXTINF:-1,TC PREMIUM - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368595
-
-
-#EXTINF:-1,TC TOUCH - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368598
-
-
-#EXTINF:-1,TCM - OPCAO 2
-http://cdn1.mg99.xyz/graca123/123graca/1368601
-
-
 #EXTINF:-1,TNT - OPCAO 2
 http://cdn1.mg99.xyz/graca123/123graca/1368610
 
@@ -582,8 +360,9 @@ http://cdn1.mg99.xyz/graca123/123graca/1368616
  
  
  
-
-
+ 
+ 
+ 
 
 
 #EXTINF:-1,BAND SP - OPCAO 3
@@ -593,38 +372,12 @@ http://sv1.casaplayer.com.br:8080/dayana/102030/3448
 #EXTINF:-1,BAND SPORTS - OPCAO 3
 http://sv1.casaplayer.com.br:8080/dayana/102030/3445
 
-
-
 #EXTINF:-1,CARTOON NETWORK - OPCAO 3
 http://sv1.casaplayer.com.br:8080/dayana/102030/3694
 
 
-#EXTINF:-1,CHEF TV - OPCAO 3
-http://sv1.casaplayer.com.br:8080/dayana/102030/57742
-
-
-#EXTINF:-1,CINEMAX - OPCAO 3
-http://sv1.casaplayer.com.br:8080/dayana/102030/3692
-
-
-#EXTINF:-1,CNN Brasil - OPCAO 3
-http://sv1.casaplayer.com.br:8080/dayana/102030/11247
-
-
-#EXTINF:-1,COMBATE - OPCAO 3
-http://sv1.casaplayer.com.br:8080/dayana/102030/3687
-
-
 #EXTINF:-1,COMEDY CENTRAL - OPCAO 3
 http://sv1.casaplayer.com.br:8080/dayana/102030/3685
-
-
-#EXTINF:-1,CULTURA - OPCAO 3
-http://sv1.casaplayer.com.br:8080/dayana/102030/3779
-
-
-#EXTINF:-1,CURTA - OPCAO 3
-http://sv1.casaplayer.com.br:8080/dayana/102030/6452
 
 
 #EXTINF:-1,DISCOVERY CHANNEL - OPCAO 3
@@ -663,10 +416,6 @@ http://sv1.casaplayer.com.br:8080/dayana/102030/3672
 http://sv1.casaplayer.com.br:8080/dayana/102030/3670
 
 
-#EXTINF:-1,E! - OPCAO 3
-http://sv1.casaplayer.com.br:8080/dayana/102030/3663
-
-
 #EXTINF:-1,ESPN BRASIL - OPCAO 3
 http://sv1.casaplayer.com.br:8080/dayana/102030/27260
 
@@ -683,38 +432,8 @@ http://sv1.casaplayer.com.br:8080/dayana/102030/3654
 http://sv1.casaplayer.com.br:8080/dayana/102030/46732
 
 
-#EXTINF:-1,FILM & ARTS - OPCAO 3
-http://sv1.casaplayer.com.br:8080/dayana/102030/6474
-
-
-#EXTINF:-1,FISH TV - OPCAO 3
-http://sv1.casaplayer.com.br:8080/dayana/102030/6830
-
-
-#EXTINF:-1,FOOD NETWORK - OPCAO 3
-http://sv1.casaplayer.com.br:8080/dayana/102030/3649
-
-
 #EXTINF:-1,FOX SPORTS 2 - OPCAO 3
 http://sv1.casaplayer.com.br:8080/dayana/102030/3640
-
-
-#EXTINF:-1,Fox Sports - OPCAO 3
-http://sv1.casaplayer.com.br:8080/dayana/102030/46955
-
-
-#EXTINF:-1,FUTURA - OPCAO 3
-http://sv1.casaplayer.com.br:8080/dayana/102030/6852
-
-
-#EXTINF:-1,FX - OPCAO 3
-http://sv1.casaplayer.com.br:8080/dayana/102030/3636
-
-
-#EXTINF:-1,GLOBO BAHIA - OPCAO 3
-http://sv1.casaplayer.com.br:8080/dayana/102030/16770
-
-
 
 #EXTINF:-1,GLOOB - OPCAO 3
 http://sv1.casaplayer.com.br:8080/dayana/102030/3616
@@ -722,14 +441,6 @@ http://sv1.casaplayer.com.br:8080/dayana/102030/3616
 
 #EXTINF:-1,GLOOBINHO - OPCAO 3
 http://sv1.casaplayer.com.br:8080/dayana/102030/26963
-
-
-#EXTINF:-1,GNT - OPCAO 3
-http://sv1.casaplayer.com.br:8080/dayana/102030/3613
-
-
-#EXTINF:-1,H2 - OPCAO 3
-http://sv1.casaplayer.com.br:8080/dayana/102030/3612
 
 
 #EXTINF:-1,HBO 2 - OPCAO 3
@@ -800,10 +511,6 @@ http://sv1.casaplayer.com.br:8080/dayana/102030/58021
 http://sv1.casaplayer.com.br:8080/dayana/102030/18846
 
 
-#EXTINF:-1,HGTV - OPCAO 3
-http://sv1.casaplayer.com.br:8080/dayana/102030/6788
-
-
 #EXTINF:-1,HISTORY CHANNEL - OPCAO 3
 http://sv1.casaplayer.com.br:8080/dayana/102030/3790
 
@@ -812,32 +519,12 @@ http://sv1.casaplayer.com.br:8080/dayana/102030/3790
 http://sv1.casaplayer.com.br:8080/dayana/102030/3791
 
 
-#EXTINF:-1,LIFETIME - OPCAO 3
-http://sv1.casaplayer.com.br:8080/dayana/102030/3592
-
-
 #EXTINF:-1,MEGAPIX - OPCAO 3
 http://sv1.casaplayer.com.br:8080/dayana/102030/6531
 
 
-#EXTINF:-1,MTV - OPCAO 3
-http://sv1.casaplayer.com.br:8080/dayana/102030/3793
-
-
 #EXTINF:-1,MULTISHOW - OPCAO 3
 http://sv1.casaplayer.com.br:8080/dayana/102030/3578
-
-
-#EXTINF:-1,NatGeo - OPCAO 3
-http://sv1.casaplayer.com.br:8080/dayana/102030/3367
-
-
-#EXTINF:-1,NATGEO WILD - OPCAO 3
-http://sv1.casaplayer.com.br:8080/dayana/102030/3572
-
-
-#EXTINF:-1,NHK - OPCAO 3 (JAPONES)
-http://sv1.casaplayer.com.br:8080/dayana/102030/58096
 
 
 #EXTINF:-1,NICK JR - OPCAO 3
@@ -846,18 +533,6 @@ http://sv1.casaplayer.com.br:8080/dayana/102030/3566
 
 #EXTINF:-1,NICKELODEON - OPCAO 3
 http://sv1.casaplayer.com.br:8080/dayana/102030/3564
-
-
-#EXTINF:-1,OFF - OPCAO 3
-http://sv1.casaplayer.com.br:8080/dayana/102030/3562
-
-
-#EXTINF:-1,PARAMOUNT - OPCAO 3
-http://sv1.casaplayer.com.br:8080/dayana/102030/3560
-
-
-#EXTINF:-1,POLISHOP TV - OPCAO 3
-http://sv1.casaplayer.com.br:8080/dayana/102030/58131
 
 
 #EXTINF:-1,PREMIERE 2 - OPCAO 3
@@ -890,10 +565,6 @@ http://sv1.casaplayer.com.br:8080/dayana/102030/19381
 
 #EXTINF:-1,PREMIERE 1 - OPCAO 3 1 (S1) 
 http://sv1.casaplayer.com.br:8080/dayana/102030/58136
-
-
-#EXTINF:-1,RECORD BAHIA - OPCAO 3
-http://sv1.casaplayer.com.br:8080/dayana/102030/58170
 
 
 #EXTINF:-1,SBT SP - OPCAO 3
@@ -952,22 +623,6 @@ http://sv1.casaplayer.com.br:8080/dayana/102030/58295
 http://sv1.casaplayer.com.br:8080/dayana/102030/58298
 
 
-#EXTINF:-1,STUDIO UNIVERSAL - OPCAO 3
-http://sv1.casaplayer.com.br:8080/dayana/102030/3501
-
-
-#EXTINF:-1,SYFY - OPCAO 3
-http://sv1.casaplayer.com.br:8080/dayana/102030/3499
-
-
-#EXTINF:-1,TBS - OPCAO 3
-http://sv1.casaplayer.com.br:8080/dayana/102030/3497
-
-
-#EXTINF:-1,TCM - OPCAO 3
-http://sv1.casaplayer.com.br:8080/dayana/102030/3495
-
-
 #EXTINF:-1,TELECINE ACTION - OPCAO 3
 http://sv1.casaplayer.com.br:8080/dayana/102030/4027
 
@@ -1024,26 +679,6 @@ http://sv1.casaplayer.com.br:8080/dayana/102030/6389
 http://sv1.casaplayer.com.br:8080/dayana/102030/58372
 
 
-#EXTINF:-1,Conmebol 1 - OPCAO 3
-http://sv1.casaplayer.com.br:8080/dayana/102030/62658
-
-
-#EXTINF:-1,Conmebol 2 - OPCAO 3
-http://sv1.casaplayer.com.br:8080/dayana/102030/62661
-
-
-#EXTINF:-1,Conmebol 3 - OPCAO 3
-http://sv1.casaplayer.com.br:8080/dayana/102030/62664
-
-
-#EXTINF:-1,Conmebol 4 - OPCAO 3
-http://sv1.casaplayer.com.br:8080/dayana/102030/62667
-
-
-#EXTINF:-1,Conmebol 6 - OPCAO 3
-http://sv1.casaplayer.com.br:8080/dayana/102030/62669
-
-
 #EXTINF:-1,ESPN 2 - OPCAO 3
 http://sv1.casaplayer.com.br:8080/dayana/102030/71783
 
@@ -1056,8 +691,6 @@ http://sv1.casaplayer.com.br:8080/dayana/102030/71788
 http://sv1.casaplayer.com.br:8080/dayana/102030/73167
 
 
-#EXTINF:-1,Mais Globosat - OPCAO 3
-http://sv1.casaplayer.com.br:8080/dayana/102030/73795
 
 
 
@@ -1069,740 +702,1495 @@ http://sv1.casaplayer.com.br:8080/dayana/102030/73795
 
 
 
-#EXTINF:-1,AXN - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/7135
 
 
-#EXTINF:-1,BABY TV - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/6751
 
 
-#EXTINF:-1,BAND CAMPINAS - OPCAO 4
+
+
+
+#EXTINF:-1,BAND CAMPINAS - OPCAO 7
 http://load.casaplayer.com.br:80/dora123/dora123/57686
 
 
-#EXTINF:-1,BAND CURITIBA - OPCAO 4
+#EXTINF:-1,BAND CURITIBA - OPCAO 7
 http://load.casaplayer.com.br:80/dora123/dora123/57687
 
+#EXTINF:-1,ANIMAL PLANET - OPCAO 4
+http://c2n.one/junior2022/2022junior/208856
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1,BAND BAHIA - OPCAO 4
+http://c2n.one/junior2022/2022junior/412426
 
 
 #EXTINF:-1,BAND SPORTS - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/3445
-
-
-#EXTINF:-1,BIS - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/3439
-
-
-#EXTINF:-1,BOOMERANG - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/3437
-
-
-#EXTINF:-1,CANAL BRASIL - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/26962
-
-
-#EXTINF:-1,CANAL SONY - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/3697
+http://c2n.one/junior2022/2022junior/208871
 
 
 #EXTINF:-1,CARTOON NETWORK - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/3694
+http://c2n.one/junior2022/2022junior/208889
 
 
-#EXTINF:-1,CHEF TV - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/57742
+#EXTINF:-1,CARTOONITO - OPCAO 4
+http://c2n.one/junior2022/2022junior/208877
 
 
-#EXTINF:-1,CINEMAX - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/3692
-
-
-#EXTINF:-1,CNN Brasil - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/11247
-
-
-#EXTINF:-1,COMBATE - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/3687
+#EXTINF:-1,CNN BRASIL - OPCAO 4
+http://c2n.one/junior2022/2022junior/39937
 
 
 #EXTINF:-1,COMEDY CENTRAL - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/3685
-
-
-#EXTINF:-1,CULTURA - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/3779
-
-
-#EXTINF:-1,CURTA - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/6452
+http://c2n.one/junior2022/2022junior/208901
 
 
 #EXTINF:-1,DISCOVERY CHANNEL - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/3682
+http://c2n.one/junior2022/2022junior/208910
 
 
-#EXTINF:-1,DISCOVERY HOME & HEALTH - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/3781
+#EXTINF:-1,DISCOVERY H&amp;H - OPCAO 4
+http://c2n.one/junior2022/2022junior/208913
 
 
 #EXTINF:-1,DISCOVERY KIDS - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/3677
+http://c2n.one/junior2022/2022junior/208916
 
 
 #EXTINF:-1,DISCOVERY SCIENCE - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/3676
+http://c2n.one/junior2022/2022junior/208919
 
 
 #EXTINF:-1,DISCOVERY THEATER - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/6800
+http://c2n.one/junior2022/2022junior/208922
 
 
 #EXTINF:-1,DISCOVERY TLC - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/3782
+http://c2n.one/junior2022/2022junior/209153
 
 
 #EXTINF:-1,DISCOVERY TURBO - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/3673
+http://c2n.one/junior2022/2022junior/208925
 
 
 #EXTINF:-1,DISCOVERY WORLD - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/3672
+http://c2n.one/junior2022/2022junior/208928
 
 
 #EXTINF:-1,DISNEY CHANNEL - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/3670
-
-
-#EXTINF:-1,E! - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/3663
-
-
-#EXTINF:-1,ESPN BRASIL - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/27260
-
-
-#EXTINF:-1,ESPN EXTRA - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/6067
+http://c2n.one/junior2022/2022junior/208931
 
 
 #EXTINF:-1,ESPN 1 - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/3654
-
-
-#EXTINF:-1,ESPN 3 - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/46732
-
-
-#EXTINF:-1,FILM & ARTS - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/6474
-
-
-#EXTINF:-1,FISH TV - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/6830
-
-
-#EXTINF:-1,FOOD NETWORK - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/3649
-
-
-#EXTINF:-1,FOX SPORTS 2 - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/3640
-
-
-#EXTINF:-1,Fox Sports - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/46955
-
-
-#EXTINF:-1,FUTURA - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/6852
-
-
-#EXTINF:-1,FX - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/3636
-
-
-#EXTINF:-1,GLOBO BAHIA - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/16770
-
-
-
-#EXTINF:-1,GLOOBINHO - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/26963
-
-
-#EXTINF:-1,GNT - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/3613
-
-
-#EXTINF:-1,H2 - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/3612
-
-
-#EXTINF:-1,HBO 2 - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/4039
-
-
-#EXTINF:-1,HBO FAMILY - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/4040
-
-
-#EXTINF:-1,HBO - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/4041
-
-
-#EXTINF:-1,HBO - OPCAO 4 ( LENGENDADOS)
-http://load.casaplayer.com.br:80/dora123/dora123/57995
-
-
-#EXTINF:-1,HBO MAX 1 - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/58471
-
-
-#EXTINF:-1,HBO MAX 2 - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/58472
-
-
-#EXTINF:-1,HBO MAX 3 - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/58473
-
-
-#EXTINF:-1,HBO MUNDI - OPCAO 4 
-http://load.casaplayer.com.br:80/dora123/dora123/18843
-
-
-#EXTINF:-1,HBO MUNDI - OPCAO 4 ( LEGENDADOS )
-http://load.casaplayer.com.br:80/dora123/dora123/58000
-
-
-#EXTINF:-1,HBO PLUS - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/4042
-
-
-#EXTINF:-1,HBO PLUS - OPCAO 4 ( LEGENDADOS )
-http://load.casaplayer.com.br:80/dora123/dora123/58006
-
-
-#EXTINF:-1,HBO POP - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/18849
-
-
-#EXTINF:-1,HBO POP - OPCAO 4 ( LEGENDADOS )
-http://load.casaplayer.com.br:80/dora123/dora123/58012
-
-
-#EXTINF:-1,HBO SIGNATURE - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/4044
-
-
-#EXTINF:-1,HBO SIGNATURE - OPCAO 4 ( LEGENDADOS )
-http://load.casaplayer.com.br:80/dora123/dora123/58019
-
-
-#EXTINF:-1,HBO XTREAM - OPCAO 4 ( LEGENDADOS )
-http://load.casaplayer.com.br:80/dora123/dora123/58021
-
-
-#EXTINF:-1,HBO XTREME - OPCAO 4 
-http://load.casaplayer.com.br:80/dora123/dora123/18846
-
-
-#EXTINF:-1,HGTV - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/6788
-
-
-#EXTINF:-1,HISTORY CHANNEL - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/3790
-
-
-#EXTINF:-1,ID - INVESTIGACAO DISCOVERY - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/3791
-
-
-#EXTINF:-1,LIFETIME - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/3592
-
-
-#EXTINF:-1,MEGAPIX - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/6531
-
-
-#EXTINF:-1,MTV - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/3793
-
-
-#EXTINF:-1,MULTISHOW - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/3578
-
-
-#EXTINF:-1,NatGeo - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/3367
-
-
-#EXTINF:-1,NATGEO WILD - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/3572
-
-
-#EXTINF:-1,NHK - OPCAO 4 (JAPONES)
-http://load.casaplayer.com.br:80/dora123/dora123/58096
-
-
-#EXTINF:-1,NICK JR - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/3566
-
-
-#EXTINF:-1,NICKELODEON - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/3564
-
-
-#EXTINF:-1,OFF - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/3562
-
-
-#EXTINF:-1,PARAMOUNT - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/3560
-
-
-#EXTINF:-1,POLISHOP TV - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/58131
-
-
-#EXTINF:-1,PREMIERE 2 - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/4053
-
-
-#EXTINF:-1,PREMIERE 3 - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/4054
-
-
-#EXTINF:-1,PREMIERE 4 - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/4055
-
-
-#EXTINF:-1,PREMIERE 5 - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/6563
-
-
-#EXTINF:-1,PREMIERE 6 - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/6565
-
-
-#EXTINF:-1,PREMIERE 7 - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/6567
-
-
-#EXTINF:-1,PREMIERE 1 - OPCAO 4 1
-http://load.casaplayer.com.br:80/dora123/dora123/19381
-
-
-#EXTINF:-1,PREMIERE 1 - OPCAO 4 1 (S1) 
-http://load.casaplayer.com.br:80/dora123/dora123/58136
-
-
-#EXTINF:-1,RECORD BAHIA - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/58170
-
-
-#EXTINF:-1,RECORD BAHIA - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/58171
-
-
-#EXTINF:-1,RECORD BRASILIA - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/58175
-
-
-#EXTINF:-1,Record Campinas - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/23815
-
-
-#EXTINF:-1,RECORD MINAS - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/6299
-
-
-#EXTINF:-1,RECORD NEWS - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/3526
-
-
-#EXTINF:-1,RECORD PARANA - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/58188
-
-
-#EXTINF:-1,Record RJ - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/23823
-
-
-#EXTINF:-1,RECORD RS - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/35050
-
-
-#EXTINF:-1,RECORD RS - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/58190
-
-
-#EXTINF:-1,RECORD SP - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/3523
-
-
-#EXTINF:-1,REDE AMAZONICA - OPCAO 4 (S1)
-http://load.casaplayer.com.br:80/dora123/dora123/58198
-
-
-#EXTINF:-1,REDE MINAS - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/58202
-
-
-#EXTINF:-1,REDE TV - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/58205
-
-
-#EXTINF:-1,REDETV PAMPA RS - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/58399
-
-
-#EXTINF:-1,RPC CASCAVEL - OPCAO 4 (S1)
-http://load.casaplayer.com.br:80/dora123/dora123/58214
-
-
-#EXTINF:-1,SBT PARANA - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/58231
-
-
-#EXTINF:-1,SBT RJ - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/58233
-
-
-#EXTINF:-1,SBT SP - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/3513
-
-
-#EXTINF:-1,SPACE - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/3510
-
-
-#EXTINF:-1,SPORTV 2 - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/3507
-
-
-#EXTINF:-1,SPORTV 3 - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/58270
-
-
-#EXTINF:-1,SPORTV 4 - OPCAO 4 (S1)
-http://load.casaplayer.com.br:80/dora123/dora123/58274
-
-
-#EXTINF:-1,SPORTV - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/46723
-
-
-#EXTINF:-1,SPORTV - OPCAO 4 (S1) 
-http://load.casaplayer.com.br:80/dora123/dora123/58265
-
-
-#EXTINF:-1,STAR CHANNEL - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/58282
-
-
-#EXTINF:-1,STAR CHANNEL - OPCAO 4 ( LEGENDADOS )
-http://load.casaplayer.com.br:80/dora123/dora123/58283
-
-
-#EXTINF:-1,STAR HITS 2 - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/58289
-
-
-#EXTINF:-1,STAR HITS 2 - OPCAO 4 ( LEGENDADOS )
-http://load.casaplayer.com.br:80/dora123/dora123/58290
-
-
-#EXTINF:-1,STAR HITS - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/58294
-
-
-#EXTINF:-1,STAR HITS - OPCAO 4 ( LEGENDADOS )
-http://load.casaplayer.com.br:80/dora123/dora123/58295
-
-
-#EXTINF:-1,STAR LIFE - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/58298
-
-
-#EXTINF:-1,STUDIO UNIVERSAL - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/3501
-
-
-#EXTINF:-1,SYFY - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/3499
-
-
-#EXTINF:-1,TBS - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/3497
-
-
-#EXTINF:-1,TCM - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/3495
-
-
-#EXTINF:-1,TELECINE ACTION - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/4027
-
-
-#EXTINF:-1,TELECINE ACTION - OPCAO 4 ( LEGENDADOS )
-http://load.casaplayer.com.br:80/dora123/dora123/58321
-
-
-#EXTINF:-1,TELECINE CULT - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/4028
-
-
-#EXTINF:-1,TELECINE CULT - OPCAO 4 ( LEGENDADOS )
-http://load.casaplayer.com.br:80/dora123/dora123/58327
-
-
-#EXTINF:-1,TELECINE FUN - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/4029
-
-
-#EXTINF:-1,TELECINE FUN - OPCAO 4 ( LEGENDADOS )
-http://load.casaplayer.com.br:80/dora123/dora123/58333
-
-
-#EXTINF:-1,TELECINE PIPOCA - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/4030
-
-
-#EXTINF:-1,TELECINE PREMIUM - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/4031
-
-
-#EXTINF:-1,TELECINE PREMIUM - OPCAO 4 ( LEGENDADOS )
-http://load.casaplayer.com.br:80/dora123/dora123/58347
-
-
-#EXTINF:-1,TELECINE TOUCH - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/4032
-
-
-#EXTINF:-1,TNT - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/46716
-
-
-#EXTINF:-1,TNT SERIES - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/3802
-
-
-#EXTINF:-1,Tooncast - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/6389
-
-
-#EXTINF:-1,TOONCAST - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/58372
-
-
-#EXTINF:-1,TRAVEL BOX BRASIL - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/58374
-
-
-#EXTINF:-1,TRU TV - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/58377
-
-
-#EXTINF:-1,TV  SAO FRANCISCO - OPCAO 4 ( GLOBO JUAZEIRO BAHIA) (S1)
-http://load.casaplayer.com.br:80/dora123/dora123/58379
-
-
-#EXTINF:-1,TV APARECIDA - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/58382
-
-
-#EXTINF:-1,TV GIDEOES - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/58392
-
-
-#EXTINF:-1,TV NOVO TEMPO - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/19035
-
-
-#EXTINF:-1,TV PAI ETERNO - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/58398
-
-
-#EXTINF:-1,TV RA TIM BUM - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/19038
-
-
-#EXTINF:-1,TV RA TIM BUM - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/58401
-
-
-#EXTINF:-1,TV Vanguarda - OPCAO 4(S1)
-http://load.casaplayer.com.br:80/dora123/dora123/58409
-
-
-#EXTINF:-1,UNIVERSAL CHANNEL - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/3714
-
-
-#EXTINF:-1,VIVA - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/3709
-
-
-#EXTINF:-1,WARNER CHANNEL - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/3707
-
-
-#EXTINF:-1,WOOHOO - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/6640
-
-
-#EXTINF:-1,Zoomoo - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/4969
-
-
-#EXTINF:-1,JP NEWS - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/62493
-
-
-#EXTINF:-1,Eleven Sports - OPCAO 4 12
-http://load.casaplayer.com.br:80/dora123/dora123/62649
-
-
-#EXTINF:-1,Eleven Sports - OPCAO 4 13
-http://load.casaplayer.com.br:80/dora123/dora123/62650
-
-
-#EXTINF:-1,Eleven Sports - OPCAO 4 14
-http://load.casaplayer.com.br:80/dora123/dora123/62651
-
-
-#EXTINF:-1,Eleven Sports - OPCAO 4 15
-http://load.casaplayer.com.br:80/dora123/dora123/62652
-
-
-#EXTINF:-1,Eleven Sports - OPCAO 4 16
-http://load.casaplayer.com.br:80/dora123/dora123/62653
-
-
-#EXTINF:-1,Eleven Sports - OPCAO 4 17
-http://load.casaplayer.com.br:80/dora123/dora123/62654
-
-
-#EXTINF:-1,Eleven Sports - OPCAO 4 18
-http://load.casaplayer.com.br:80/dora123/dora123/62655
-
-
-#EXTINF:-1,Eleven Sports - OPCAO 4 19
-http://load.casaplayer.com.br:80/dora123/dora123/62656
-
-
-#EXTINF:-1,Conmebol 1 - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/62658
-
-
-#EXTINF:-1,Conmebol 2 - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/62661
-
-
-#EXTINF:-1,Conmebol 3 - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/62664
-
-
-#EXTINF:-1,Conmebol 4 - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/62667
-
-
-#EXTINF:-1,Conmebol 6 - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/62669
-
-
-#EXTINF:-1,TV A Plateia - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/62966
-
-
-#EXTINF:-1,TV ANHANGUERA ANAPOLIS - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/62968
-
-
-#EXTINF:-1,TV ANHANGUERA CATALAO - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/62970
-
-
-#EXTINF:-1,TV ANHANGUERA ITUMBIARA - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/62972
-
-
-#EXTINF:-1,HBO MAX 4 - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/70846
-
-
-#EXTINF:-1,TVE - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/71626
-
-
-#EXTINF:-1,Up Channel - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/71630
-
-
-#EXTINF:-1,URBAN DOCS - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/71631
-
-
-#EXTINF:-1,URBAN KIDS - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/71632
-
-
-#EXTINF:-1,URBAN MOVIES - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/71633
-
-
-#EXTINF:-1,URBAN SERIES - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/71634
-
-
-#EXTINF:-1,XXX - FOR MAN - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/71645
-
-
-#EXTINF:-1,XXX PLAYBOY TV - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/71647
-
-
-#EXTINF:-1,XXX SEXY PRIVE - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/71653
+http://c2n.one/junior2022/2022junior/208943
 
 
 #EXTINF:-1,ESPN 2 - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/71783
+http://c2n.one/junior2022/2022junior/208949
+
+
+#EXTINF:-1,ESPN 3 - OPCAO 4
+http://c2n.one/junior2022/2022junior/208940
 
 
 #EXTINF:-1,ESPN 4 - OPCAO 4
+http://c2n.one/junior2022/2022junior/208961
+
+
+#EXTINF:-1,ESPN EXTRA - OPCAO 4
+http://c2n.one/junior2022/2022junior/208946
+
+
+#EXTINF:-1,ESTADIO TNT SPORTS 01 - OPCAO 4
+http://c2n.one/junior2022/2022junior/678015
+
+
+#EXTINF:-1,ESTADIO TNT SPORTS 02 - OPCAO 4
+http://c2n.one/junior2022/2022junior/678014
+
+
+#EXTINF:-1,ESTADIO TNT SPORTS 03 - OPCAO 4
+http://c2n.one/junior2022/2022junior/678013
+
+
+#EXTINF:-1,ESTADIO TNT SPORTS 04 - OPCAO 4
+http://c2n.one/junior2022/2022junior/678012
+
+
+#EXTINF:-1,ESTADIO TNT SPORTS 05 - OPCAO 4
+http://c2n.one/junior2022/2022junior/678011
+
+
+#EXTINF:-1,ESTADIO TNT SPORTS 06 - OPCAO 4
+http://c2n.one/junior2022/2022junior/678010
+
+
+#EXTINF:-1,ESTADIO TNT SPORTS 07 - OPCAO 4
+http://c2n.one/junior2022/2022junior/678009
+
+
+#EXTINF:-1,ESTADIO TNT SPORTS 08 - OPCAO 4
+http://c2n.one/junior2022/2022junior/678008
+
+
+#EXTINF:-1,ESTADIO TNT SPORTS 09 - OPCAO 4
+http://c2n.one/junior2022/2022junior/678007
+
+
+#EXTINF:-1,ESTADIO TNT SPORTS 10 - OPCAO 4
+http://c2n.one/junior2022/2022junior/678006
+
+
+#EXTINF:-1,FOX SPORTS 2 - OPCAO 4
+http://c2n.one/junior2022/2022junior/208958
+
+#EXTINF:-1,GLOBO SP - OPCAO 4
+http://c2n.one/junior2022/2022junior/441216
+
+#EXTINF:-1,GLOOB - OPCAO 4
+http://c2n.one/junior2022/2022junior/208976
+
+
+#EXTINF:-1,GLOOBINHO - OPCAO 4
+http://c2n.one/junior2022/2022junior/208979
+
+
+#EXTINF:-1,HBO + - OPCAO 4
+http://c2n.one/junior2022/2022junior/208985
+
+
+#EXTINF:-1,HBO 1 - OPCAO 4
+http://c2n.one/junior2022/2022junior/208994
+
+
+#EXTINF:-1,HBO 2 - OPCAO 4
+http://c2n.one/junior2022/2022junior/208988
+
+
+#EXTINF:-1,HBO FAMILY - OPCAO 4
+http://c2n.one/junior2022/2022junior/208991
+
+
+#EXTINF:-1,HBO - OPCAO 4 LEG
+http://c2n.one/junior2022/2022junior/446536
+
+
+#EXTINF:-1,HBO MAX 01 - OPCAO 4
+http://c2n.one/junior2022/2022junior/678002
+
+
+#EXTINF:-1,HBO MAX 02 - OPCAO 4
+http://c2n.one/junior2022/2022junior/678001
+
+
+#EXTINF:-1,HBO MAX 03 - OPCAO 4
+http://c2n.one/junior2022/2022junior/678000
+
+
+#EXTINF:-1,HBO MAX 04 - OPCAO 4
+http://c2n.one/junior2022/2022junior/677999
+
+
+#EXTINF:-1,HBO MAX 05 - OPCAO 4
+http://c2n.one/junior2022/2022junior/677998
+
+
+#EXTINF:-1,HBO MUNDI - OPCAO 4
+http://c2n.one/junior2022/2022junior/208996
+
+
+#EXTINF:-1,HBO PLUS - OPCAO 4 LEG
+http://c2n.one/junior2022/2022junior/446538
+
+
+#EXTINF:-1,HBO POP - OPCAO 4
+http://c2n.one/junior2022/2022junior/208999
+
+
+#EXTINF:-1,HBO POP - OPCAO 4 LEG
+http://c2n.one/junior2022/2022junior/446540
+
+
+#EXTINF:-1,HBO SIGNATURE - OPCAO 4
+http://c2n.one/junior2022/2022junior/209003
+
+
+#EXTINF:-1,HBO XTREME - OPCAO 4
+http://c2n.one/junior2022/2022junior/209006
+
+
+#EXTINF:-1,HISTORY CHANNEL - OPCAO 4
+http://c2n.one/junior2022/2022junior/209015
+
+
+#EXTINF:-1,INVESTIGATION DISCOVERY - OPCAO 4
+http://c2n.one/junior2022/2022junior/209018
+
+
+#EXTINF:-1,MEGAPIX - OPCAO 4
+http://c2n.one/junior2022/2022junior/209030
+
+
+#EXTINF:-1,MEGAPIX - OPCAO 4 LEG
+http://c2n.one/junior2022/2022junior/446561
+
+
+#EXTINF:-1,NICK JR - OPCAO 4
+http://c2n.one/junior2022/2022junior/209051
+
+
+#EXTINF:-1,NICKELODEON - OPCAO 4
+http://c2n.one/junior2022/2022junior/209054
+
+
+#EXTINF:-1,PREMIERE 1 CLUBES - OPCAO 4
+http://c2n.one/junior2022/2022junior/209087
+
+
+#EXTINF:-1,PREMIERE 2 - OPCAO 4
+http://c2n.one/junior2022/2022junior/209069
+
+
+#EXTINF:-1,PREMIERE 3 - OPCAO 4
+http://c2n.one/junior2022/2022junior/209072
+
+
+#EXTINF:-1,PREMIERE 4 - OPCAO 4
+http://c2n.one/junior2022/2022junior/209075
+
+
+#EXTINF:-1,PREMIERE 5 - OPCAO 4
+http://c2n.one/junior2022/2022junior/209078
+
+
+#EXTINF:-1,PREMIERE 6 - OPCAO 4
+http://c2n.one/junior2022/2022junior/209081
+
+
+#EXTINF:-1,PREMIERE 7 - OPCAO 4
+http://c2n.one/junior2022/2022junior/209084
+
+
+#EXTINF:-1,REDE TV - OPCAO 4
+http://c2n.one/junior2022/2022junior/39920
+
+
+#EXTINF:-1,SBT - OPCAO 4
+http://c2n.one/junior2022/2022junior/396717
+
+
+#EXTINF:-1,SBT RJ - OPCAO 4
+http://c2n.one/junior2022/2022junior/410244
+
+
+#EXTINF:-1,SBT RS - OPCAO 4
+http://c2n.one/junior2022/2022junior/676957
+
+
+#EXTINF:-1,SBT VTV CAMPINAS - OPCAO 4
+http://c2n.one/junior2022/2022junior/396715
+
+
+#EXTINF:-1,SPACE - OPCAO 4
+http://c2n.one/junior2022/2022junior/209102
+
+
+#EXTINF:-1,SPACE - OPCAO 4 LEG
+http://c2n.one/junior2022/2022junior/446563
+
+
+#EXTINF:-1,SPORTV 1 - OPCAO 4
+http://c2n.one/junior2022/2022junior/209111
+
+
+#EXTINF:-1,SPORTV 2 - OPCAO 4
+http://c2n.one/junior2022/2022junior/209105
+
+
+#EXTINF:-1,SPORTV 3 - OPCAO 4
+http://c2n.one/junior2022/2022junior/209108
+
+
+#EXTINF:-1,STAR CHANNEL - OPCAO 4
+http://c2n.one/junior2022/2022junior/396722
+
+
+#EXTINF:-1,STAR CHANNEL - OPCAO 4 LEG
+http://c2n.one/junior2022/2022junior/446534
+
+
+#EXTINF:-1,STAR+ 01 - OPCAO 4
+http://c2n.one/junior2022/2022junior/677997
+
+
+#EXTINF:-1,STAR+ 02 - OPCAO 4
+http://c2n.one/junior2022/2022junior/677996
+
+
+#EXTINF:-1,STAR+ 03 - OPCAO 4
+http://c2n.one/junior2022/2022junior/677995
+
+
+#EXTINF:-1,STAR+ 04 - OPCAO 4
+http://c2n.one/junior2022/2022junior/677994
+
+
+#EXTINF:-1,STAR+ 05 - OPCAO 4
+http://c2n.one/junior2022/2022junior/677993
+
+
+#EXTINF:-1,TELECINE ACTION - OPCAO 4
+http://c2n.one/junior2022/2022junior/209135
+
+
+#EXTINF:-1,TELECINE ACTION - OPCAO 4 LEG
+http://c2n.one/junior2022/2022junior/446543
+
+
+#EXTINF:-1,TELECINE CULT FULL - OPCAO 4 Otimizado
+http://c2n.one/junior2022/2022junior/275157
+
+
+#EXTINF:-1,TELECINE CULT - OPCAO 4
+http://c2n.one/junior2022/2022junior/209138
+
+
+#EXTINF:-1,TELECINE CULT - OPCAO 4 LEG
+http://c2n.one/junior2022/2022junior/446554
+
+
+#EXTINF:-1,TELECINE FUN FULL - OPCAO 4 Otimizado
+http://c2n.one/junior2022/2022junior/275158
+
+
+#EXTINF:-1,TELECINE FUN - OPCAO 4
+http://c2n.one/junior2022/2022junior/209141
+
+
+#EXTINF:-1,TELECINE FUN - OPCAO 4 LEG
+http://c2n.one/junior2022/2022junior/446545
+
+
+#EXTINF:-1,TELECINE PIPOCA FULL - OPCAO 4 Otimizado
+http://c2n.one/junior2022/2022junior/275159
+
+
+#EXTINF:-1,TELECINE PIPOCA - OPCAO 4
+http://c2n.one/junior2022/2022junior/39954
+
+
+#EXTINF:-1,TELECINE PIPOCA - OPCAO 4 LEG
+http://c2n.one/junior2022/2022junior/446547
+
+
+#EXTINF:-1,TELECINE PREMIUM FULL - OPCAO 4 Otimizado
+http://c2n.one/junior2022/2022junior/275160
+
+
+#EXTINF:-1,TELECINE PREMIUM - OPCAO 4
+http://c2n.one/junior2022/2022junior/209147
+
+
+#EXTINF:-1,TELECINE PREMIUM - OPCAO 4 LEG
+http://c2n.one/junior2022/2022junior/446549
+
+
+#EXTINF:-1,TELECINE TOUCH FULL - OPCAO 4 Otimizado
+http://c2n.one/junior2022/2022junior/275161
+
+
+#EXTINF:-1,TELECINE TOUCH - OPCAO 4
+http://c2n.one/junior2022/2022junior/39956
+
+
+#EXTINF:-1,TELECINE TOUCH - OPCAO 4
+http://c2n.one/junior2022/2022junior/209150
+
+
+#EXTINF:-1,TELECINE TOUCH - OPCAO 4 LEG
+http://c2n.one/junior2022/2022junior/446551
+
+
+#EXTINF:-1,TNT - OPCAO 4
+http://c2n.one/junior2022/2022junior/209156
+
+
+#EXTINF:-1,TNT - OPCAO 4 LEG
+http://c2n.one/junior2022/2022junior/446555
+
+
+#EXTINF:-1,TNT SERIES - OPCAO 4
+http://c2n.one/junior2022/2022junior/209159
+
+
+#EXTINF:-1,TNT SERIES - OPCAO 4 LEG
+http://c2n.one/junior2022/2022junior/446557
+
+
+#EXTINF:-1,TOONCAST - OPCAO 4
+http://c2n.one/junior2022/2022junior/57196
+
+#EXTINF:-1,GLOBO SP - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/2821
+
+#EXTINF:-1,BAND - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/9032
+
+
+#EXTINF:-1,SBT - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/330
+
+
+#EXTINF:-1,SPORTV - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/177
+
+
+#EXTINF:-1,SPORTV - OPCAO 5 - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10054368
+
+
+#EXTINF:-1,SPORTV - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/4899
+
+
+#EXTINF:-1,SPORTV - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/16847
+
+
+#EXTINF:-1,SPORTV 2 - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/172
+
+
+#EXTINF:-1,SPORTV 2 - OPCAO 5 - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10054376
+
+
+#EXTINF:-1,SPORTV 2 - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/4900
+
+
+#EXTINF:-1,SPORTV 3 - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/167
+
+
+#EXTINF:-1,SPORTV 3 - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/17104
+
+
+#EXTINF:-1,SPORTV 3 - OPCAO 5 - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10054372
+
+
+#EXTINF:-1,FOX SPORTS 2 - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/161
+
+
+#EXTINF:-1,FOX SPORTS 2 - OPCAO 5 - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10054808
+
+
+#EXTINF:-1,FOX SPORTS 2 - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/17143
+
+
+#EXTINF:-1,ESPN - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/151
+
+
+#EXTINF:-1,ESPN - OPCAO 5 - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10054827
+
+
+#EXTINF:-1,ESPN - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/2843
+
+
+#EXTINF:-1,ESPN 2 - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/154
+
+
+#EXTINF:-1,ESPN 2 - OPCAO 5 - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10054830
+
+
+#EXTINF:-1,ESPN 2 - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/17131
+
+
+#EXTINF:-1,ESPN 3 - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/148
+
+
+#EXTINF:-1,ESPN 3 - OPCAO 5 - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10054836
+
+
+#EXTINF:-1,ESPN 3 - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/4962
+
+
+#EXTINF:-1,ESPN 4 - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/164
+
+
+#EXTINF:-1,ESPN 4 - OPCAO 5 - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10054804
+
+
+#EXTINF:-1,ESPN 4 - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/8992
+
+
+#EXTINF:-1,ESPN 4 - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/2835
+
+
+#EXTINF:-1,ESPN EXTRA - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/5396
+
+
+#EXTINF:-1,ESPN EXTRA - OPCAO 5 - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10054824
+
+
+#EXTINF:-1,ESPN EXTRA - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/17092
+
+
+#EXTINF:-1,BAND SPORTS - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/155
+
+
+#EXTINF:-1,BAND SPORTS - OPCAO 5 - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10055011
+
+
+#EXTINF:-1,BAND SPORTS - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/17138
+
+
+#EXTINF:-1,PREMIERE CLUBES - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/200
+
+
+#EXTINF:-1,PREMIERE CLUBES - OPCAO 5 - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10054468
+
+
+#EXTINF:-1,PREMIERE CLUBES - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/4905
+
+
+#EXTINF:-1,PREMIERE CLUBES - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/17107
+
+
+#EXTINF:-1,PREMIERE CLUBES - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/10055200
+
+
+#EXTINF:-1,PREMIERE 2 - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/197
+
+
+#EXTINF:-1,PREMIERE 2 - OPCAO 5 - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10054465
+
+
+#EXTINF:-1,PREMIERE 2 - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/4902
+
+
+#EXTINF:-1,PREMIERE 2 - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/2788
+
+
+#EXTINF:-1,PREMIERE 2 - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/10055198
+
+
+#EXTINF:-1,PREMIERE 3 - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/196
+
+
+#EXTINF:-1,PREMIERE 3 - OPCAO 5 - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10054462
+
+
+#EXTINF:-1,PREMIERE 3 - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/4903
+
+
+#EXTINF:-1,PREMIERE 3 - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/17110
+
+
+#EXTINF:-1,PREMIERE 3 - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/10055196
+
+
+#EXTINF:-1,PREMIERE 4 - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/193
+
+
+#EXTINF:-1,PREMIERE 4 - OPCAO 5 - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10054459
+
+
+#EXTINF:-1,PREMIERE 4 - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/4904
+
+
+#EXTINF:-1,PREMIERE 4 - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/17109
+
+
+#EXTINF:-1,PREMIERE 4 - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/10055194
+
+
+#EXTINF:-1,PREMIERE 5 - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/190
+
+
+#EXTINF:-1,PREMIERE 5 - OPCAO 5 - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10054456
+
+
+#EXTINF:-1,PREMIERE 5 - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/17108
+
+
+#EXTINF:-1,PREMIERE 5 - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/5717
+
+
+#EXTINF:-1,PREMIERE 5 - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/10055192
+
+
+#EXTINF:-1,PREMIERE 6 - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/4991
+
+
+#EXTINF:-1,PREMIERE 6 - OPCAO 5 - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10054453
+
+
+#EXTINF:-1,PREMIERE 6 - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/17155
+
+
+#EXTINF:-1,PREMIERE 6 - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/10055190
+
+
+#EXTINF:-1,PREMIERE 7 - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/4990
+
+
+#EXTINF:-1,PREMIERE 7 - OPCAO 5 - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10054450
+
+
+#EXTINF:-1,PREMIERE 7 - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/17154
+
+
+#EXTINF:-1,PREMIERE 7 - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/10055188
+
+
+#EXTINF:-1,HBO MAX 01 - OPCAO 5h
+http://viutudo.com:80/fabricio2022/2022fabricio/10073392
+
+
+#EXTINF:-1,ESTADIO TNT SPORTS - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/10053461
+
+
+#EXTINF:-1,ESTADIO TNT SPORTS - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/10054030
+
+
+#EXTINF:-1,MEGAPIX - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/244
+
+
+#EXTINF:-1,MEGAPIX - OPCAO 5 - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10054534
+
+
+#EXTINF:-1,MEGAPIX - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/17117
+
+
+#EXTINF:-1,MEGAPIX - OPCAO 5 LEG
+http://viutudo.com:80/fabricio2022/2022fabricio/9539
+
+
+#EXTINF:-1,MEGAPIX - OPCAO 5 [LEG] - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10054533
+
+
+#EXTINF:-1,HBO - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/273
+
+
+#EXTINF:-1,HBO - OPCAO 5 - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10054597
+
+
+#EXTINF:-1,HBO - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/16741
+
+
+#EXTINF:-1,HBO - OPCAO 5 LEG
+http://viutudo.com:80/fabricio2022/2022fabricio/9561
+
+
+#EXTINF:-1,HBO - OPCAO 5 [LEG] - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10054596
+
+
+#EXTINF:-1,HBO 2 - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/279
+
+
+#EXTINF:-1,HBO 2 - OPCAO 5 - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10054606
+
+
+#EXTINF:-1,HBO 2 - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/17123
+
+
+#EXTINF:-1,HBO+ - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/270
+
+
+#EXTINF:-1,HBO+ - OPCAO 5 - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10054612
+
+
+#EXTINF:-1,HBO+ - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/17121
+
+
+#EXTINF:-1,HBO+ - OPCAO 5 LEG
+http://viutudo.com:80/fabricio2022/2022fabricio/9560
+
+
+#EXTINF:-1,HBO+ - OPCAO 5 [LEG] - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10054611
+
+
+#EXTINF:-1,HBO FAMILY - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/276
+
+
+#EXTINF:-1,HBO FAMILY - OPCAO 5 - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10054602
+
+
+#EXTINF:-1,HBO FAMILY - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/17122
+
+
+#EXTINF:-1,HBO SIGNATURE - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/267
+
+
+#EXTINF:-1,HBO SIGNATURE - OPCAO 5 - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10054576
+
+
+#EXTINF:-1,HBO SIGNATURE - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/17142
+
+
+#EXTINF:-1,HBO SIGNATURE - OPCAO 5 [LEG] - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10054575
+
+
+#EXTINF:-1,HBO MUNDI - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/4827
+
+
+#EXTINF:-1,HBO MUNDI - OPCAO 5 - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10054592
+
+
+#EXTINF:-1,HBO MUNDI - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/4766
+
+
+#EXTINF:-1,HBO MUNDI - OPCAO 5 [LEG] - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10054591
+
+
+#EXTINF:-1,HBO POP - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/5043
+
+
+#EXTINF:-1,HBO POP - OPCAO 5 - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10054585
+
+
+#EXTINF:-1,HBO POP - OPCAO 5 LEG
+http://viutudo.com:80/fabricio2022/2022fabricio/9541
+
+
+#EXTINF:-1,HBO POP - OPCAO 5 [LEG] - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10054584
+
+
+#EXTINF:-1,HBO XTREME - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/4828
+
+
+#EXTINF:-1,HBO XTREME - OPCAO 5 - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10054569
+
+
+#EXTINF:-1,HBO XTREME - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/4767
+
+
+#EXTINF:-1,HBO XTREME - OPCAO 5 [LEG] - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10054568
+
+
+#EXTINF:-1,COMEDY CENTRAL - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/2861
+
+
+#EXTINF:-1,COMEDY CENTRAL - OPCAO 5 - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10054913
+
+
+#EXTINF:-1,COMEDY CENTRAL - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/17065
+
+
+#EXTINF:-1,STAR CHANNEL - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/256
+
+
+#EXTINF:-1,STAR CHANNEL - OPCAO 5 - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10054363
+
+
+#EXTINF:-1,STAR CHANNEL - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/17128
+
+
+#EXTINF:-1,STAR CHANNEL - OPCAO 5 LEG
+http://viutudo.com:80/fabricio2022/2022fabricio/9563
+
+
+#EXTINF:-1,STAR CHANNEL - OPCAO 5 [LEG] - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10054362
+
+
+#EXTINF:-1,STAR LIFE - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/250
+
+
+#EXTINF:-1,STAR LIFE - OPCAO 5 - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10054343
+
+
+#EXTINF:-1,STAR LIFE - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/17127
+
+
+#EXTINF:-1,STAR HITS 2 - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/17129
+
+
+#EXTINF:-1,SPACE - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/223
+
+
+#EXTINF:-1,SPACE - OPCAO 5 - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10054382
+
+
+#EXTINF:-1,SPACE - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/17106
+
+
+#EXTINF:-1,SPACE - OPCAO 5 LEG
+http://viutudo.com:80/fabricio2022/2022fabricio/9537
+
+
+#EXTINF:-1,SPACE - OPCAO 5 [LEG] - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10054381
+
+
+#EXTINF:-1,TNT - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/263
+
+
+#EXTINF:-1,TNT - OPCAO 5 - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10055129
+
+
+#EXTINF:-1,TNT - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/17099
+
+
+#EXTINF:-1,TNT - OPCAO 5 LEG
+http://viutudo.com:80/fabricio2022/2022fabricio/9545
+
+
+#EXTINF:-1,TNT - OPCAO 5 [LEG] - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10055128
+
+
+#EXTINF:-1,TNT SERIES - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/260
+
+
+#EXTINF:-1,TNT SERIES - OPCAO 5 - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10055122
+
+
+#EXTINF:-1,TNT SERIES - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/17098
+
+
+#EXTINF:-1,TNT SERIES - OPCAO 5 LEG
+http://viutudo.com:80/fabricio2022/2022fabricio/9535
+
+
+#EXTINF:-1,TNT SERIES - OPCAO 5 [LEG] - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10055121
+
+
+#EXTINF:-1,DISCOVERY TURBO - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/126
+
+
+#EXTINF:-1,DISCOVERY TURBO - OPCAO 5 - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10054857
+
+
+#EXTINF:-1,DISCOVERY TURBO - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/17134
+
+
+#EXTINF:-1,MULTISHOW - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/93
+
+
+#EXTINF:-1,MULTISHOW - OPCAO 5 - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10054520
+
+
+#EXTINF:-1,MULTISHOW - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/17116
+
+
+#EXTINF:-1,ANIMAL PLANET - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/116
+
+
+#EXTINF:-1,ANIMAL PLANET - OPCAO 5 - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10055037
+
+
+#EXTINF:-1,ANIMAL PLANET - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/5825
+
+
+#EXTINF:-1,ID - INVESTIGACAO DISCOVERY - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/109
+
+
+#EXTINF:-1,ID - INVESTIGACAO DISCOVERY - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/17118
+
+
+#EXTINF:-1,DISCOVERY CHANNEL - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/133
+
+
+#EXTINF:-1,DISCOVERY CHANNEL - OPCAO 5 - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10054873
+
+
+#EXTINF:-1,DISCOVERY SCIENCE - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/5476
+
+
+#EXTINF:-1,DISCOVERY SCIENCE - OPCAO 5 - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10054865
+
+
+#EXTINF:-1,DISCOVERY SCIENCE - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/17166
+
+
+#EXTINF:-1,HISTORY - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/112
+
+
+#EXTINF:-1,HISTORY - OPCAO 5 - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10054555
+
+
+#EXTINF:-1,HISTORY - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/17119
+
+
+#EXTINF:-1,BAND NEWS - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/5843
+
+
+#EXTINF:-1,BAND NEWS - OPCAO 5 - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10055017
+
+
+#EXTINF:-1,BAND NEWS - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/10048417
+
+
+#EXTINF:-1,CNN BRASIL - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/10027034
+
+
+#EXTINF:-1,CNN BRASIL - OPCAO 5 - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10054921
+
+
+#EXTINF:-1,CNN BRASIL - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/10041070
+
+
+#EXTINF:-1,CARTOON NETWORK - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/63
+
+
+#EXTINF:-1,CARTOON NETWORK - OPCAO 5 - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10054929
+
+
+#EXTINF:-1,CARTOON NETWORK - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/17067
+
+
+#EXTINF:-1,DISCOVERY KIDS - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/4826
+
+
+#EXTINF:-1,DISCOVERY KIDS - OPCAO 5 - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10054869
+
+
+#EXTINF:-1,DISCOVERY KIDS - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/17063
+
+
+#EXTINF:-1,DISNEY CHANNEL - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/2852
+
+
+#EXTINF:-1,DISNEY CHANNEL - OPCAO 5 - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10054849
+
+
+#EXTINF:-1,DISNEY CHANNEL - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/17061
+
+
+#EXTINF:-1,GLOOB - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/2819
+
+
+#EXTINF:-1,GLOOB - OPCAO 5 - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10054625
+
+
+#EXTINF:-1,GLOOB - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/17056
+
+
+#EXTINF:-1,GLOOBINHO - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/5346
+
+
+#EXTINF:-1,GLOOBINHO - OPCAO 5 - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10054622
+
+
+#EXTINF:-1,GLOOBINHO - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/10051240
+
+
+#EXTINF:-1,NICK - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/4886
+
+
+#EXTINF:-1,NICKELODEON - OPCAO 5 - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10054498
+
+
+#EXTINF:-1,NICK - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/17048
+
+
+#EXTINF:-1,NICK JR - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/5045
+
+
+#EXTINF:-1,NICK JR. - OPCAO 5 - 2
+http://viutudo.com:80/fabricio2022/2022fabricio/10054494
+
+
+#EXTINF:-1,NICK JR - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/17157
+
+
+#EXTINF:-1,TOONCAST - OPCAO 5
+http://viutudo.com:80/fabricio2022/2022fabricio/10027051
+
+
+#EXTINF:-1,BAND SPORTS - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/3445
+
+
+#EXTINF:-1,CARTOON NETWORK - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/3694
+
+
+#EXTINF:-1,COMEDY CENTRAL - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/3685
+
+
+#EXTINF:-1,DISCOVERY CHANNEL - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/3682
+
+
+#EXTINF:-1,DISCOVERY HOME & HEALTH - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/3781
+
+
+#EXTINF:-1,DISCOVERY KIDS - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/3677
+
+
+#EXTINF:-1,DISCOVERY SCIENCE - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/3676
+
+
+#EXTINF:-1,DISCOVERY THEATER - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/6800
+
+
+#EXTINF:-1,DISCOVERY TLC - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/3782
+
+
+#EXTINF:-1,DISCOVERY TURBO - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/3673
+
+
+#EXTINF:-1,DISCOVERY WORLD - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/3672
+
+
+#EXTINF:-1,DISNEY CHANNEL - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/3670
+
+
+#EXTINF:-1,ESPN BRASIL - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/27260
+
+
+#EXTINF:-1,ESPN EXTRA - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/6067
+
+
+#EXTINF:-1,ESPN 1 - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/3654
+
+
+#EXTINF:-1,ESPN 3 - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/46732
+
+
+#EXTINF:-1,FOX SPORTS 2 - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/3640
+
+#EXTINF:-1,GLOOBINHO - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/26963
+
+
+#EXTINF:-1,HBO 2 - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/4039
+
+
+#EXTINF:-1,HBO FAMILY - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/4040
+
+
+#EXTINF:-1,HBO - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/4041
+
+
+#EXTINF:-1,HBO - OPCAO 7 ( LENGENDADOS)
+http://load.casaplayer.com.br:80/dora123/dora123/57995
+
+
+#EXTINF:-1,HBO MAX 1 - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/58471
+
+
+#EXTINF:-1,HBO MAX 2 - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/58472
+
+
+#EXTINF:-1,HBO MAX 3 - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/58473
+
+
+#EXTINF:-1,HBO MUNDI - OPCAO 7 
+http://load.casaplayer.com.br:80/dora123/dora123/18843
+
+
+#EXTINF:-1,HBO MUNDI - OPCAO 7 ( LEGENDADOS )
+http://load.casaplayer.com.br:80/dora123/dora123/58000
+
+
+#EXTINF:-1,HBO PLUS - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/4042
+
+
+#EXTINF:-1,HBO PLUS - OPCAO 7 ( LEGENDADOS )
+http://load.casaplayer.com.br:80/dora123/dora123/58006
+
+
+#EXTINF:-1,HBO POP - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/18849
+
+
+#EXTINF:-1,HBO POP - OPCAO 7 ( LEGENDADOS )
+http://load.casaplayer.com.br:80/dora123/dora123/58012
+
+
+#EXTINF:-1,HBO SIGNATURE - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/4044
+
+
+#EXTINF:-1,HBO SIGNATURE - OPCAO 7 ( LEGENDADOS )
+http://load.casaplayer.com.br:80/dora123/dora123/58019
+
+
+#EXTINF:-1,HBO XTREAM - OPCAO 7 ( LEGENDADOS )
+http://load.casaplayer.com.br:80/dora123/dora123/58021
+
+
+#EXTINF:-1,HBO XTREME - OPCAO 7 
+http://load.casaplayer.com.br:80/dora123/dora123/18846
+
+
+#EXTINF:-1,HISTORY CHANNEL - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/3790
+
+
+#EXTINF:-1,ID - INVESTIGACAO DISCOVERY - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/3791
+
+
+#EXTINF:-1,MEGAPIX - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/6531
+
+
+#EXTINF:-1,MULTISHOW - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/3578
+
+
+#EXTINF:-1,NICK JR - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/3566
+
+
+#EXTINF:-1,NICKELODEON - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/3564
+
+
+#EXTINF:-1,PREMIERE 2 - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/4053
+
+
+#EXTINF:-1,PREMIERE 3 - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/4054
+
+
+#EXTINF:-1,PREMIERE 4 - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/4055
+
+
+#EXTINF:-1,PREMIERE 5 - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/6563
+
+
+#EXTINF:-1,PREMIERE 6 - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/6565
+
+
+#EXTINF:-1,PREMIERE 7 - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/6567
+
+
+#EXTINF:-1,PREMIERE 1 - OPCAO 7 1
+http://load.casaplayer.com.br:80/dora123/dora123/19381
+
+
+#EXTINF:-1,PREMIERE 1 - OPCAO 7 1 (S1) 
+http://load.casaplayer.com.br:80/dora123/dora123/58136
+
+
+#EXTINF:-1,RECORD SP - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/3523
+
+
+#EXTINF:-1,REDE TV - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/58205
+
+
+#EXTINF:-1,SBT PARANA - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/58231
+
+
+#EXTINF:-1,SBT RJ - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/58233
+
+
+#EXTINF:-1,SBT SP - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/3513
+
+
+#EXTINF:-1,SPACE - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/3510
+
+
+#EXTINF:-1,SPORTV 2 - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/3507
+
+
+#EXTINF:-1,SPORTV 3 - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/58270
+
+
+#EXTINF:-1,SPORTV 4 - OPCAO 7 (S1)
+http://load.casaplayer.com.br:80/dora123/dora123/58274
+
+
+#EXTINF:-1,SPORTV - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/46723
+
+
+#EXTINF:-1,SPORTV - OPCAO 7 (S1) 
+http://load.casaplayer.com.br:80/dora123/dora123/58265
+
+
+#EXTINF:-1,STAR CHANNEL - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/58282
+
+
+#EXTINF:-1,STAR CHANNEL - OPCAO 7 ( LEGENDADOS )
+http://load.casaplayer.com.br:80/dora123/dora123/58283
+
+
+#EXTINF:-1,STAR HITS 2 - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/58289
+
+
+#EXTINF:-1,STAR HITS 2 - OPCAO 7 ( LEGENDADOS )
+http://load.casaplayer.com.br:80/dora123/dora123/58290
+
+
+#EXTINF:-1,STAR HITS - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/58294
+
+
+#EXTINF:-1,STAR HITS - OPCAO 7 ( LEGENDADOS )
+http://load.casaplayer.com.br:80/dora123/dora123/58295
+
+
+#EXTINF:-1,STAR LIFE - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/58298
+
+
+#EXTINF:-1,TELECINE ACTION - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/4027
+
+
+#EXTINF:-1,TELECINE ACTION - OPCAO 7 ( LEGENDADOS )
+http://load.casaplayer.com.br:80/dora123/dora123/58321
+
+
+#EXTINF:-1,TELECINE CULT - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/4028
+
+
+#EXTINF:-1,TELECINE CULT - OPCAO 7 ( LEGENDADOS )
+http://load.casaplayer.com.br:80/dora123/dora123/58327
+
+
+#EXTINF:-1,TELECINE FUN - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/4029
+
+
+#EXTINF:-1,TELECINE FUN - OPCAO 7 ( LEGENDADOS )
+http://load.casaplayer.com.br:80/dora123/dora123/58333
+
+
+#EXTINF:-1,TELECINE PIPOCA - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/4030
+
+
+#EXTINF:-1,TELECINE PREMIUM - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/4031
+
+
+#EXTINF:-1,TELECINE PREMIUM - OPCAO 7 ( LEGENDADOS )
+http://load.casaplayer.com.br:80/dora123/dora123/58347
+
+
+#EXTINF:-1,TELECINE TOUCH - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/4032
+
+
+#EXTINF:-1,TNT - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/46716
+
+
+#EXTINF:-1,TNT SERIES - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/3802
+
+
+#EXTINF:-1,Tooncast - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/6389
+
+
+#EXTINF:-1,TOONCAST - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/58372
+
+
+#EXTINF:-1,HBO MAX 4 - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/70846
+
+
+#EXTINF:-1,ESPN 2 - OPCAO 7
+http://load.casaplayer.com.br:80/dora123/dora123/71783
+
+
+#EXTINF:-1,ESPN 4 - OPCAO 7
 http://load.casaplayer.com.br:80/dora123/dora123/71788
 
 
-#EXTINF:-1,HBO MAX 4 - OPCAO 4
+#EXTINF:-1,HBO MAX 4 - OPCAO 7
 http://load.casaplayer.com.br:80/dora123/dora123/73167
-
-
-#EXTINF:-1,Mais Globosat - OPCAO 4
-http://load.casaplayer.com.br:80/dora123/dora123/73795
-
-
 
